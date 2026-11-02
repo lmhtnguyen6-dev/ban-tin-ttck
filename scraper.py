@@ -435,8 +435,10 @@ def gop_bai_dinh_ky(nhom_list, nguong=0.85):
 # 7. [AI] CHẤM TÁC ĐỘNG TTCK + GỘP TRÙNG THEO NGHĨA bằng Gemini (1 LẦN GỌI)
 # ===========================================================================
 # Mô hình & key lấy từ biến môi trường để dễ đổi mà không sửa code.
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash").strip()
+# Lưu ý: GitHub Actions truyền biến chưa đặt thành CHUỖI RỖNG (không phải thiếu hẳn),
+# nên dùng `or` để rơi về mặc định khi rỗng — tránh tên model rỗng làm URL Gemini hỏng.
+GEMINI_API_KEY = (os.environ.get("GEMINI_API_KEY") or "").strip()
+GEMINI_MODEL = (os.environ.get("GEMINI_MODEL") or "").strip() or "gemini-2.5-flash"
 GEMINI_URL = ("https://generativelanguage.googleapis.com/v1beta/models/"
               f"{GEMINI_MODEL}:generateContent")
 
