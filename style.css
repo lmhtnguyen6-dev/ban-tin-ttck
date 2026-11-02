@@ -1,0 +1,141 @@
+/* =====================================================================
+   Radar TTCK — giao diện bảng tin tài chính (dark, gọn, chuyên nghiệp)
+   ===================================================================== */
+:root {
+  --bg: #0b1220;
+  --bg-soft: #121c2e;
+  --card: #15203440;
+  --card-solid: #141f33;
+  --border: #243249;
+  --text: #e7edf6;
+  --muted: #8a9bb5;
+  --accent: #3b82f6;
+  --accent-2: #22d3ee;
+  --pos: #22c55e;
+  --neg: #ef4444;
+  --neu: #94a3b8;
+  --chip: #1b2740;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(1200px 600px at 80% -10%, #16233c 0%, transparent 60%),
+    var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  line-height: 1.5;
+}
+
+.wrap { max-width: 960px; margin: 0 auto; padding: 0 16px; }
+
+/* ---------- Header ---------- */
+.top {
+  border-bottom: 1px solid var(--border);
+  background: linear-gradient(180deg, #0e1729, #0b1220);
+  position: sticky; top: 0; z-index: 10;
+}
+.top .wrap {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 12px; padding-top: 14px; padding-bottom: 14px; flex-wrap: wrap;
+}
+.brand { display: flex; align-items: center; gap: 12px; }
+.logo {
+  font-size: 26px; color: var(--accent-2);
+  text-shadow: 0 0 16px #22d3ee88;
+}
+h1 { font-size: 20px; margin: 0; letter-spacing: .3px; }
+.tagline { margin: 2px 0 0; font-size: 12.5px; color: var(--muted); }
+.meta { display: flex; align-items: center; gap: 10px; }
+.muted { color: var(--muted); font-size: 12.5px; }
+
+.badge {
+  font-size: 11px; font-weight: 600; padding: 3px 9px; border-radius: 999px;
+  border: 1px solid var(--border); background: var(--chip); color: var(--muted);
+}
+.badge.ai { color: #0b1220; background: linear-gradient(90deg, #22d3ee, #3b82f6); border: 0; }
+.badge.code { color: var(--muted); }
+
+/* ---------- Controls ---------- */
+.controls { margin: 18px 0 10px; display: flex; flex-direction: column; gap: 12px; }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip {
+  cursor: pointer; user-select: none;
+  font-size: 13px; padding: 6px 12px; border-radius: 999px;
+  border: 1px solid var(--border); background: var(--chip); color: var(--muted);
+  transition: .15s;
+}
+.chip:hover { color: var(--text); border-color: var(--accent); }
+.chip.active { color: #fff; background: var(--accent); border-color: var(--accent); }
+.chip .n { opacity: .7; font-size: 11.5px; margin-left: 4px; }
+
+#search {
+  width: 100%; padding: 10px 14px; border-radius: 10px;
+  border: 1px solid var(--border); background: var(--bg-soft); color: var(--text);
+  font-size: 14px; outline: none;
+}
+#search:focus { border-color: var(--accent); }
+
+.trang-thai { color: var(--muted); padding: 24px 4px; text-align: center; }
+
+/* ---------- Cards ---------- */
+.cards { display: flex; flex-direction: column; gap: 12px; padding-bottom: 40px; }
+.card {
+  border: 1px solid var(--border); border-radius: 14px;
+  background: var(--card-solid);
+  padding: 14px 16px; display: flex; gap: 14px;
+  transition: .15s; position: relative; overflow: hidden;
+}
+.card:hover { border-color: #33507d; transform: translateY(-1px); }
+.card::before {
+  content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px;
+  background: var(--neu);
+}
+.card.pos::before { background: var(--pos); }
+.card.neg::before { background: var(--neg); }
+.card.neu::before { background: var(--neu); }
+
+.score {
+  flex: 0 0 auto; width: 46px; text-align: center;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+}
+.score .num {
+  font-size: 22px; font-weight: 800; line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+.score .lbl { font-size: 9.5px; color: var(--muted); text-transform: uppercase; margin-top: 3px; letter-spacing: .5px; }
+.card.pos .score .num { color: var(--pos); }
+.card.neg .score .num { color: var(--neg); }
+.card.neu .score .num { color: var(--text); }
+
+.body { flex: 1; min-width: 0; }
+.tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 6px; align-items: center; }
+.tag {
+  font-size: 11px; padding: 2px 8px; border-radius: 6px;
+  background: #1b2740; color: var(--accent-2); border: 1px solid #22334e;
+}
+.tag.sac { border: 0; }
+.tag.sac.pos { background: #0f2a1a; color: var(--pos); }
+.tag.sac.neg { background: #2a1113; color: var(--neg); }
+.tag.sac.neu { background: #1b2432; color: var(--neu); }
+
+.title { margin: 2px 0 4px; font-size: 15.5px; font-weight: 650; }
+.title a { color: var(--text); text-decoration: none; }
+.title a:hover { color: var(--accent-2); text-decoration: underline; }
+.ly-do { font-size: 13px; color: #c3d0e4; margin: 4px 0 6px; }
+.ly-do b { color: var(--accent-2); font-weight: 600; }
+.foot-line { font-size: 12px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 10px; }
+.foot-line .dot { opacity: .5; }
+.nguon-nhieu { color: var(--accent-2); }
+
+.foot { color: var(--muted); font-size: 12px; border-top: 1px solid var(--border); padding-top: 16px; padding-bottom: 30px; margin-top: 10px; }
+
+@media (max-width: 560px) {
+  .card { padding: 12px; gap: 10px; }
+  .score { width: 38px; }
+  .score .num { font-size: 19px; }
+  .title { font-size: 14.5px; }
+  .meta { width: 100%; justify-content: flex-start; }
+}

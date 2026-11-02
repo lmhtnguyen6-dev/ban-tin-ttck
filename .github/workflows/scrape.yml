@@ -1,0 +1,54 @@
+name: Thu thập & chấm tin (Radar TTCK)
+
+on:
+  schedule:
+    # Chạy mỗi giờ, vào phút thứ 5 (giờ UTC). Cron GitHub có thể trễ vài phút.
+    # Chạy theo GIỜ (không phải 15 phút) để tiết kiệm lượt gọi Gemini free tier.
+    - cron: "5 * * * *"
+  workflow_dispatch: {}   # cho phép bấm "Run workflow" chạy tay
+
+# Cho phép workflow commit data.json trở lại repo.
+permissions:
+  contents: write
+
+# Nếu có lần chạy trước còn dở, hủy để tránh chồng chéo commit.
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Lấy mã nguồn
+        uses: actions/checkout@v4
+
+      - name: Cài Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Cài thư viện
+        run: pip install -r requirements.txt
+
+      - name: Chạy scraper (chấm tin)
+        env:
+          # Key Gemini đặt trong: Settings -> Secrets and variables -> Actions -> Secrets
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # (Tùy chọn) đổi model qua Variables; bỏ trống thì code dùng mặc định.
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+        run: python scraper.py
+
+      - name: Commit data.json nếu có thay đổi
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Kéo bản mới nhất trước khi commit để tránh xung đột đẩy.
+          git pull --rebase --autostash || true
+          if [ -n "$(git status --porcelain data.json)" ]; then
+            git add data.json
+            git commit -m "Cập nhật tin tự động: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          else
+            echo "data.json không đổi — bỏ qua commit."
+          fi

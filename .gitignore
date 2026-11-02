@@ -1,0 +1,11 @@
+# Môi trường / cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# File tạm
+*.log
+.DS_Store
+Thumbs.db
