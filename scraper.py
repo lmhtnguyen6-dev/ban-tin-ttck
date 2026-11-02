@@ -28,6 +28,7 @@ import json
 import os
 import re
 import html
+import time
 from datetime import datetime, timezone, timedelta
 from difflib import SequenceMatcher
 
@@ -439,11 +440,65 @@ def gop_bai_dinh_ky(nhom_list, nguong=0.85):
 # nên dùng `or` để rơi về mặc định khi rỗng — tránh tên model rỗng làm URL Gemini hỏng.
 GEMINI_API_KEY = (os.environ.get("GEMINI_API_KEY") or "").strip()
 GEMINI_MODEL = (os.environ.get("GEMINI_MODEL") or "").strip() or "gemini-2.5-flash"
-GEMINI_URL = ("https://generativelanguage.googleapis.com/v1beta/models/"
-              f"{GEMINI_MODEL}:generateContent")
+GEMINI_API_BASE = "https://generativelanguage.googleapis.com/v1beta/models"
+# Lỗi 503 "quá tải" của bậc free là NHẤT THỜI và theo TỪNG MODEL: cùng lúc model này
+# nghẽn thì model khác vẫn 200. Nên ta XOAY VÒNG qua nhiều model flash đã kiểm chứng
+# dùng được (thay vì thử lại mãi một model). Model chính (GEMINI_MODEL) được thử trước.
+MODELS_DU_PHONG = ["gemini-2.5-flash", "gemini-3.5-flash", "gemini-3.6-flash",
+                   "gemini-3.1-flash-lite"]
+MODELS_THU = [GEMINI_MODEL] + [m for m in MODELS_DU_PHONG if m != GEMINI_MODEL]
+SO_VONG = 2              # số vòng lặp qua toàn bộ danh sách model khi còn gặp lỗi tạm thời
+SO_UNG_VIEN_TOI_DA = 70  # chỉ gửi tối đa bấy nhiêu tin cho AI (giới hạn token đầu ra)
 
 # Ngưỡng điểm tác động tối thiểu để một tin được giữ lại (AI chấm 0-10).
 NGUONG_TAC_DONG = 4
+
+
+def _diem_so_bo(nhom, bay_gio):
+    """Điểm sơ bộ bằng code để CẮT còn top ứng viên trước khi gửi cho AI."""
+    t = nhom["tieu_de"].lower()
+    diem_tu_khoa = sum(ts for tu, ts in TRONG_SO_TU_KHOA.items() if tu in t)
+    return len(nhom["nguon_set"]) * 3 + diem_tu_khoa + diem_moi(nhom["gio_dang"], bay_gio)
+
+
+def goi_gemini(prompt):
+    """
+    Gọi Gemini có THỬ LẠI + ĐỔI MODEL khi gặp lỗi tạm thời (quá tải/giới hạn).
+    Trả về (json_response, tên_model) nếu được, hoặc (None, None) nếu thất bại hẳn.
+    """
+    body = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {
+            "responseMimeType": "application/json",
+            "temperature": 0.1,
+            "maxOutputTokens": 8192,
+            # Tắt 'thinking' của model 2.5 -> dành token cho JSON, chạy nhanh hơn.
+            "thinkingConfig": {"thinkingBudget": 0},
+        },
+    }
+    # Xoay vòng qua danh sách model (lặp SO_VONG vòng); gặp lỗi tạm thời -> sang model kế.
+    for model in MODELS_THU * SO_VONG:
+        url = f"{GEMINI_API_BASE}/{model}:generateContent"
+        try:
+            resp = requests.post(url, params={"key": GEMINI_API_KEY},
+                                 json=body, timeout=90)
+        except Exception as e:
+            print(f"=> [AI] {model}: lỗi kết nối ({e}), thử model khác...")
+            time.sleep(3); continue
+        if resp.status_code == 200:
+            try:
+                return resp.json(), model
+            except Exception as e:
+                print(f"=> [AI] {model}: không đọc được JSON phản hồi ({e}).")
+                continue
+        if resp.status_code in (429, 500, 503):
+            print(f"=> [AI] {model}: tạm lỗi {resp.status_code} (quá tải/giới hạn), "
+                  f"thử model khác...")
+            time.sleep(3); continue
+        # Lỗi khác (400/403/404...) -> model này không hợp, thử model kế.
+        print(f"=> [AI] {model}: lỗi {resp.status_code}: {resp.text[:160]}")
+        continue
+    return None, None
 
 PROMPT_HE_THONG = """Bạn là trợ lý sàng lọc tin cho MỘT MÔI GIỚI CHỨNG KHOÁN Việt Nam.
 Nhiệm vụ: với mỗi tin (tiêu đề + mô tả), đánh giá tin đó có ẢNH HƯỞNG TRỰC TIẾP đến
@@ -487,33 +542,23 @@ def cham_diem_ai(nhom_list):
     if not nhom_list:
         return []
 
+    # Cắt còn TOP ứng viên theo điểm sơ bộ (giới hạn token đầu ra, tránh truncate JSON).
+    bay_gio = datetime.now(timezone.utc)
+    nhom_list = sorted(nhom_list, key=lambda n: _diem_so_bo(n, bay_gio), reverse=True)
+    nhom_list = nhom_list[:SO_UNG_VIEN_TOI_DA]
+
     # Đóng gói tin ứng viên (chỉ tiêu đề + mô tả ngắn) để tiết kiệm token.
     goi = [{"id": i, "tieu_de": n["tieu_de"], "mo_ta": n.get("mo_ta", "")[:200]}
            for i, n in enumerate(nhom_list)]
     prompt = (PROMPT_HE_THONG.format(chu_de_list=" | ".join(CHU_DE_CHUAN))
               + "\n\nDANH SÁCH TIN:\n" + json.dumps(goi, ensure_ascii=False))
 
-    body = {
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"responseMimeType": "application/json", "temperature": 0.1},
-    }
-    try:
-        resp = requests.post(GEMINI_URL, params={"key": GEMINI_API_KEY},
-                             json=body, timeout=90)
-    except Exception as e:
-        print(f"=> [AI] Lỗi kết nối Gemini: {e} -> dùng đường lui code-thuần.")
-        return None
-
-    if resp.status_code == 429:
-        print("=> [AI] Gemini báo 429 (hết lượt free) -> dùng đường lui code-thuần.")
-        return None
-    if resp.status_code != 200:
-        print(f"=> [AI] Gemini trả về {resp.status_code}: {resp.text[:200]} "
-              f"-> dùng đường lui code-thuần.")
+    data, model_dung = goi_gemini(prompt)
+    if data is None:
+        print("=> [AI] Gọi Gemini thất bại sau khi thử lại -> dùng đường lui code-thuần.")
         return None
 
     try:
-        data = resp.json()
         text = data["candidates"][0]["content"]["parts"][0]["text"]
         danh_gia = json.loads(text)
         if not isinstance(danh_gia, list):
@@ -521,6 +566,7 @@ def cham_diem_ai(nhom_list):
     except Exception as e:
         print(f"=> [AI] Không đọc được kết quả Gemini: {e} -> dùng đường lui code-thuần.")
         return None
+    print(f"=> [AI] Dùng model: {model_dung}")
 
     # Ghép kết quả AI vào từng nhóm tin theo id.
     theo_id = {}
