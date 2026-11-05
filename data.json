@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-11-05 19:07:56",
+  "cap_nhat_luc": "2026-11-06 03:35:32",
   "che_do": "ai",
   "so_tin": 30,
   "tin": [
@@ -7,18 +7,29 @@
       "tieu_de": "Phó Thống đốc: NHNN sẽ tiếp tục quyết liệt triển khai giảm mặt bằng lãi suất, cả huy động và cho vay",
       "chu_de": "Chính sách & NHNN",
       "diem_tac_dong": 8,
-      "ly_do": "NHNN quyết liệt giảm lãi suất huy động và cho vay, tác động toàn thị trường.",
+      "ly_do": "NHNN quyết liệt giảm lãi suất huy động và cho vay, tác động trực tiếp đến chi phí vốn doanh nghiệp.",
+      "sac_thai": "tích cực",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-06 03:34",
+      "link": "https://vietnambiz.vn/pho-thong-doc-nhnn-se-tiep-tuc-quyet-liet-trien-khai-giam-mat-bang-lai-suat-ca-huy-dong-va-cho-vay-2026114152128314.htm"
+    },
+    {
+      "tieu_de": "Hoán đổi ngoại tệ kỳ hạn 182 ngày: Điều gì đáng chú ý trong động thái mới của NHNN?",
+      "chu_de": "Chính sách & NHNN",
+      "diem_tac_dong": 8,
+      "ly_do": "NHNN hoán đổi ngoại tệ kỳ hạn dài hỗ trợ thanh khoản VND, ổn định tỷ giá.",
       "sac_thai": "tích cực",
       "nguon": "CafeF Tài chính, VietnamBiz Tài chính",
       "so_nguon": 2,
-      "thoi_gian": "2026-11-05 19:07",
-      "link": "https://vietnambiz.vn/pho-thong-doc-nhnn-se-tiep-tuc-quyet-liet-trien-khai-giam-mat-bang-lai-suat-ca-huy-dong-va-cho-vay-2026114152128314.htm"
+      "thoi_gian": "2026-11-06 03:34",
+      "link": "https://vietnambiz.vn/hoan-doi-ngoai-te-ky-han-182-ngay-dieu-gi-dang-chu-y-trong-dong-thai-moi-cua-nhnn-2026114111116542.htm"
     },
     {
       "tieu_de": "Cập nhật diễn biến dòng vốn tỷ USD FTSE giải ngân vào 27 cổ phiếu Việt Nam: Một cột mốc quan trọng đang đến gần",
       "chu_de": "Dòng tiền & khối ngoại",
       "diem_tac_dong": 8,
-      "ly_do": "Dòng vốn tỷ USD từ FTSE giải ngân vào cổ phiếu Việt Nam, hỗ trợ thị trường.",
+      "ly_do": "Dòng vốn tỷ USD từ FTSE giải ngân vào cổ phiếu Việt Nam sẽ thúc đẩy thị trường.",
       "sac_thai": "tích cực",
       "nguon": "CafeF Chứng khoán",
       "so_nguon": 1,
@@ -26,21 +37,10 @@
       "link": "https://cafef.vn/cap-nhat-dien-bien-dong-von-ty-usd-ftse-giai-ngan-vao-27-co-phieu-viet-nam-mot-cot-moc-quan-trong-dang-den-gan-188261105150235851.chn"
     },
     {
-      "tieu_de": "Hoán đổi ngoại tệ kỳ hạn 182 ngày: Điều gì đáng chú ý trong động thái mới của NHNN?",
-      "chu_de": "Chính sách & NHNN",
-      "diem_tac_dong": 8,
-      "ly_do": "NHNN hoán đổi ngoại tệ kỳ hạn dài, hỗ trợ thanh khoản và ổn định tỷ giá.",
-      "sac_thai": "tích cực",
-      "nguon": "CafeF Tài chính, VietnamBiz Tài chính",
-      "so_nguon": 2,
-      "thoi_gian": "2026-11-05 19:07",
-      "link": "https://vietnambiz.vn/hoan-doi-ngoai-te-ky-han-182-ngay-dieu-gi-dang-chu-y-trong-dong-thai-moi-cua-nhnn-2026114111116542.htm"
-    },
-    {
       "tieu_de": "Khối ngoại \"tung\" hơn 450 tỷ đồng gom một cổ phiếu chứng khoán phiên 5/11",
       "chu_de": "Dòng tiền & khối ngoại",
       "diem_tac_dong": 7,
-      "ly_do": "Khối ngoại bán ròng ảnh hưởng tâm lý và dòng tiền thị trường chứng khoán.",
+      "ly_do": "Khối ngoại bán ròng ảnh hưởng tâm lý và dòng tiền thị trường, đặc biệt với cổ phiếu chứng khoán.",
       "sac_thai": "tiêu cực",
       "nguon": "CafeF Chứng khoán",
       "so_nguon": 1,
@@ -48,10 +48,21 @@
       "link": "https://cafef.vn/khoi-ngoai-tung-hon-450-ty-dong-gom-mot-co-phieu-chung-khoan-phien-5-11-188261105151531765.chn"
     },
     {
+      "tieu_de": "Ngân hàng Nhà nước tiếp tục kiểm soát tín dụng bất động sản",
+      "chu_de": "Chính sách & NHNN",
+      "diem_tac_dong": 7,
+      "ly_do": "NHNN kiểm soát tín dụng BĐS và triển khai gói nhà ở xã hội tác động đến ngành BĐS.",
+      "sac_thai": "trung tính",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-06 03:34",
+      "link": "https://vietnambiz.vn/ngan-hang-nha-nuoc-tiep-tuc-kiem-soat-tin-dung-bat-dong-san-2026111201327890.htm"
+    },
+    {
       "tieu_de": "Lãi 9 tháng vượt xa kế hoạch năm, một đại gia bất động sản \"chơi lớn\" chi gần 1.100 tỷ đồng trả cổ tức",
       "chu_de": "Doanh nghiệp niêm yết",
       "diem_tac_dong": 7,
-      "ly_do": "Doanh nghiệp bất động sản chia cổ tức tiền mặt lớn, tác động giá cổ phiếu.",
+      "ly_do": "SIP trả cổ tức tiền mặt lớn cho thấy KQKD tốt, thu hút nhà đầu tư.",
       "sac_thai": "tích cực",
       "nguon": "CafeF Chứng khoán",
       "so_nguon": 1,
@@ -59,32 +70,43 @@
       "link": "https://cafef.vn/lai-9-thang-vuot-xa-ke-hoach-nam-mot-dai-gia-bat-dong-san-choi-lon-chi-gan-1100-ty-dong-tra-co-tuc-188261105171557809.chn"
     },
     {
-      "tieu_de": "Ngân hàng Nhà nước tiếp tục kiểm soát tín dụng bất động sản",
-      "chu_de": "Chính sách & NHNN",
+      "tieu_de": "Hé lộ lợi nhuận ngân hàng 9 tháng: 4 ngân hàng tăng trưởng âm, có đơn vị báo lãi tăng bằng lần",
+      "chu_de": "Doanh nghiệp niêm yết",
       "diem_tac_dong": 7,
-      "ly_do": "NHNN kiểm soát tín dụng BĐS và triển khai gói nhà ở xã hội, tác động ngành BĐS.",
+      "ly_do": "KQKD 9 tháng của các ngân hàng phản ánh sức khỏe ngành, ảnh hưởng đến cổ phiếu ngân hàng.",
       "sac_thai": "trung tính",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 19:07",
-      "link": "https://vietnambiz.vn/ngan-hang-nha-nuoc-tiep-tuc-kiem-soat-tin-dung-bat-dong-san-2026111201327890.htm"
+      "thoi_gian": "2026-11-06 03:34",
+      "link": "https://vietnambiz.vn/he-lo-loi-nhuan-ngan-hang-9-thang-4-ngan-hang-tang-truong-am-co-don-vi-bao-lai-tang-bang-lan-202611215195750.htm"
     },
     {
-      "tieu_de": "Chứng khoán HD chốt giá IPO 38.900 đồng/cổ phiếu, định giá sau phát hành khoảng 1,8 tỷ USD",
+      "tieu_de": "Một yếu tố có thể tác động mạnh đến chứng khoán trong tháng 11",
+      "chu_de": "Vĩ mô Việt Nam",
+      "diem_tac_dong": 7,
+      "ly_do": "Lạm phát, lãi suất, tỷ giá hạ nhiệt tạo điều kiện thuận lợi cho TTCK.",
+      "sac_thai": "tích cực",
+      "nguon": "CafeF Chứng khoán",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-06 00:04",
+      "link": "https://cafef.vn/mot-yeu-to-co-the-tac-dong-manh-den-chung-khoan-trong-thang-11-188261105154317356.chn"
+    },
+    {
+      "tieu_de": "Con gái Chủ tịch PNJ đã bị bán giải chấp gần nửa lượng cổ phiếu nắm giữ trong chưa đầy 1 tháng",
       "chu_de": "Doanh nghiệp niêm yết",
       "diem_tac_dong": 7,
-      "ly_do": "Chứng khoán HD IPO với định giá lớn, thu hút vốn và tăng quy mô thị trường.",
-      "sac_thai": "tích cực",
-      "nguon": "CafeF Chứng khoán, CafeF Tài chính",
-      "so_nguon": 2,
-      "thoi_gian": "2026-11-04 19:08",
-      "link": "https://cafef.vn/chung-khoan-hd-chot-gia-ipo-38900-dong-co-phieu-dinh-gia-sau-phat-hanh-khoang-18-ty-usd-188261104190854587.chn"
+      "ly_do": "Cổ phiếu PNJ bị bán giải chấp ảnh hưởng đến giá cổ phiếu và tâm lý thị trường.",
+      "sac_thai": "tiêu cực",
+      "nguon": "CafeF Chứng khoán",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-06 00:02",
+      "link": "https://cafef.vn/con-gai-chu-tich-pnj-da-bi-ban-giai-chap-gan-nua-luong-co-phieu-nam-giu-trong-chua-day-1-thang-188261105223516603.chn"
     },
     {
       "tieu_de": "Lợi nhuận gấp 8 lần cùng kỳ nhờ xuất khẩu, cổ phiếu của công ty chuyên chế tạo những kết cấu thép khổng lồ bất ngờ có biến",
       "chu_de": "Doanh nghiệp niêm yết",
       "diem_tac_dong": 7,
-      "ly_do": "Lợi nhuận doanh nghiệp tăng đột biến nhờ xuất khẩu, tác động giá cổ phiếu.",
+      "ly_do": "Lợi nhuận AMS tăng đột biến nhờ xuất khẩu, tác động tích cực đến giá cổ phiếu.",
       "sac_thai": "tích cực",
       "nguon": "CafeF Doanh nghiệp",
       "so_nguon": 1,
@@ -92,21 +114,87 @@
       "link": "https://cafef.vn/loi-nhuan-gap-8-lan-cung-ky-nho-xuat-khau-co-phieu-cua-cong-ty-chuyen-che-tao-nhung-ket-cau-thep-khong-lo-bat-ngo-co-bien-188261105083004338.chn"
     },
     {
-      "tieu_de": "Hé lộ lợi nhuận ngân hàng 9 tháng: 4 ngân hàng tăng trưởng âm, có đơn vị báo lãi tăng bằng lần",
+      "tieu_de": "NHNN Khu vực 2 tăng cường theo dõi lãi suất với các giao dịch phát sinh",
+      "chu_de": "Chính sách & NHNN",
+      "diem_tac_dong": 7,
+      "ly_do": "NHNN theo dõi lãi suất chặt chẽ, ảnh hưởng đến chính sách tín dụng của các ngân hàng.",
+      "sac_thai": "trung tính",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-05 13:17",
+      "link": "https://cafef.vn/nhnn-khu-vuc-2-tang-cuong-theo-doi-lai-suat-voi-cac-giao-dich-phat-sinh-188261105121734128.chn"
+    },
+    {
+      "tieu_de": "Cổ phiếu một doanh nghiệp giáo dục tăng 763% trong hơn 2 tháng sau khi nữ chủ tịch bán sạch vốn, nhóm cổ đông mới xuất hiện",
       "chu_de": "Doanh nghiệp niêm yết",
       "diem_tac_dong": 7,
-      "ly_do": "Kết quả kinh doanh ngân hàng 9 tháng có sự phân hóa, ảnh hưởng đến từng cổ phiếu.",
+      "ly_do": "Cổ phiếu CAR tăng mạnh sau giao dịch cổ đông lớn, cho thấy sự thay đổi cơ cấu sở hữu.",
+      "sac_thai": "trung tính",
+      "nguon": "CafeF Doanh nghiệp",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-05 19:43",
+      "link": "https://cafef.vn/co-phieu-mot-doanh-nghiep-giao-duc-tang-763-trong-hon-2-thang-sau-khi-nu-chu-tich-ban-sach-von-nhom-co-dong-moi-xuat-hien-188261105194408938.chn"
+    },
+    {
+      "tieu_de": "Tỷ giá USD giảm mạnh nhất một tháng",
+      "chu_de": "Vĩ mô Việt Nam",
+      "diem_tac_dong": 7,
+      "ly_do": "Tỷ giá USD giảm mạnh giúp giảm áp lực lạm phát và chi phí nhập khẩu.",
+      "sac_thai": "tích cực",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-05 20:53",
+      "link": "https://vnexpress.net/ty-gia-usd-giam-manh-nhat-mot-thang-5141334.html"
+    },
+    {
+      "tieu_de": "Thu nhập lãi thuần một ngân hàng tăng gấp 3 lần trong 9 tháng",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 7,
+      "ly_do": "Thu nhập lãi thuần của PVcomBank tăng mạnh cho thấy hiệu quả kinh doanh cải thiện.",
+      "sac_thai": "tích cực",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-06 03:34",
+      "link": "https://vietnambiz.vn/thu-nhap-lai-thuan-mot-ngan-hang-tang-gap-3-lan-trong-9-thang-202611422235897.htm"
+    },
+    {
+      "tieu_de": "Tập đoàn bảo hiểm thu gần 7.600 tỷ đồng lãi tiền gửi trong 9 tháng",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 7,
+      "ly_do": "Lãi tiền gửi lớn của Bảo Việt cho thấy hiệu quả quản lý tài chính và dòng tiền.",
+      "sac_thai": "tích cực",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-06 03:34",
+      "link": "https://vietnambiz.vn/tap-doan-bao-hiem-thu-gan-7600-ty-dong-lai-tien-gui-trong-9-thang-202611414350234.htm"
+    },
+    {
+      "tieu_de": "Cổ đông Nhà nước muốn thoái hết vốn tại Eximbank, giá khởi điểm 17.393 đồng/cp",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 7,
+      "ly_do": "Thoái vốn nhà nước tại Eximbank sẽ ảnh hưởng đến cơ cấu sở hữu và giá cổ phiếu EIB.",
       "sac_thai": "trung tính",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 19:07",
-      "link": "https://vietnambiz.vn/he-lo-loi-nhuan-ngan-hang-9-thang-4-ngan-hang-tang-truong-am-co-don-vi-bao-lai-tang-bang-lan-202611215195750.htm"
+      "thoi_gian": "2026-11-06 03:34",
+      "link": "https://vietnambiz.vn/co-dong-nha-nuoc-muon-thoai-het-von-tai-eximbank-gia-khoi-diem-17393-dongcp-202611494922254.htm"
+    },
+    {
+      "tieu_de": "Kho bạc Nhà nước gửi hơn 500.000 tỷ tại ba 'Big4', tăng 28% so với cuối 2025",
+      "chu_de": "Chính sách & NHNN",
+      "diem_tac_dong": 7,
+      "ly_do": "Tiền gửi Kho bạc Nhà nước tại Big4 ảnh hưởng đến thanh khoản hệ thống ngân hàng.",
+      "sac_thai": "trung tính",
+      "nguon": "VietnamBiz Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-06 03:34",
+      "link": "https://vietnambiz.vn/kho-bac-nha-nuoc-gui-hon-500000-ty-tai-ba-big4-tang-28-so-voi-cuoi-2025-2026112135852364.htm"
     },
     {
       "tieu_de": "Việt Nam có thêm 2,5 triệu tài khoản chứng khoán từ đầu năm",
       "chu_de": "Vĩ mô Việt Nam",
       "diem_tac_dong": 7,
-      "ly_do": "Số lượng tài khoản chứng khoán tăng mạnh, cho thấy sự quan tâm của nhà đầu tư.",
+      "ly_do": "Số lượng tài khoản chứng khoán tăng mạnh cho thấy sự quan tâm của nhà đầu tư.",
       "sac_thai": "tích cực",
       "nguon": "CafeF Chứng khoán",
       "so_nguon": 1,
@@ -114,10 +202,10 @@
       "link": "https://cafef.vn/viet-nam-co-them-25-trieu-tai-khoan-chung-khoan-tu-dau-nam-188261105151047551.chn"
     },
     {
-      "tieu_de": "Giá trị công ty trên TTCK chỉ 17.000 tỷ đồng, ông chủ Zalo trở lại với tham vọng IPO tại Mỹ, nhắm định giá gần 80.000 tỷ",
+      "tieu_de": "Giá trị công ty trên TTCK chỉ 17.000 tỷ đồng, ông chủ Zalo có thể trở lại với tham vọng IPO tại Mỹ, nhắm định giá gần 80.000 tỷ?",
       "chu_de": "Doanh nghiệp niêm yết",
       "diem_tac_dong": 7,
-      "ly_do": "VNG nối lại kế hoạch IPO tại Mỹ, có thể tác động đến giá trị doanh nghiệp.",
+      "ly_do": "VNG nối lại kế hoạch IPO tại Mỹ có thể thu hút dòng vốn lớn và tăng giá trị doanh nghiệp.",
       "sac_thai": "tích cực",
       "nguon": "CafeF Doanh nghiệp",
       "so_nguon": 1,
@@ -125,98 +213,43 @@
       "link": "https://cafef.vn/gia-tri-cong-ty-tren-ttck-chi-17000-ty-dong-ong-chu-zalo-tro-lai-voi-tham-vong-ipo-tai-my-nham-dinh-gia-gan-80000-ty-188261105143054255.chn"
     },
     {
-      "tieu_de": "USD lao dốc xuống thấp nhất gần 1,5 tháng sau bầu cử tại Mỹ",
-      "chu_de": "Thế giới & địa chính trị",
-      "diem_tac_dong": 7,
-      "ly_do": "USD lao dốc sau bầu cử Mỹ, ảnh hưởng tỷ giá và dòng vốn toàn cầu.",
-      "sac_thai": "tích cực",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-05 18:33",
-      "link": "https://cafef.vn/usd-lao-doc-xuong-thap-nhat-gan-15-thang-sau-bau-cu-tai-my-188261105153638435.chn"
-    },
-    {
-      "tieu_de": "9 tháng đã hoàn thành gấp đôi mục tiêu lợi nhuận cả năm, ông lớn ngành phân bón tăng 113% kế hoạch năm 2026",
+      "tieu_de": "Tổng thầu đường sắt của Vingroup quây rào, đưa máy khoan khảo sát hàng loạt địa điểm tại Hà Nội, chuẩn bị làm 5 tuyến metro gần 900.000 tỷ đồng",
       "chu_de": "Doanh nghiệp niêm yết",
       "diem_tac_dong": 7,
-      "ly_do": "Doanh nghiệp phân bón tăng gấp đôi mục tiêu lợi nhuận, tác động giá cổ phiếu.",
+      "ly_do": "Vingroup chuẩn bị làm 5 tuyến metro lớn, tác động tích cực đến ngành xây dựng và BĐS.",
       "sac_thai": "tích cực",
-      "nguon": "CafeF Chứng khoán, CafeF Doanh nghiệp",
-      "so_nguon": 2,
-      "thoi_gian": "2026-11-05 10:53",
-      "link": "https://cafef.vn/9-thang-da-hoan-thanh-gap-doi-muc-tieu-loi-nhuan-ca-nam-ong-lon-nganh-phan-bon-tang-113-ke-hoach-nam-2026-188261105105540776.chn"
+      "nguon": "CafeF Doanh nghiệp",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-06 00:01",
+      "link": "https://cafef.vn/tong-thau-duong-sat-cua-vingroup-quay-rao-dua-may-khoan-khao-sat-hang-loat-dia-diem-tai-ha-noi-chuan-bi-lam-5-tuyen-metro-gan-900000-ty-dong-188261105225509733.chn"
     },
     {
-      "tieu_de": "Vốn FDI vào TP HCM tăng hơn 4 lần",
-      "chu_de": "Vĩ mô Việt Nam",
-      "diem_tac_dong": 7,
-      "ly_do": "Vốn FDI vào TP HCM tăng mạnh, thúc đẩy tăng trưởng kinh tế và thị trường.",
-      "sac_thai": "tích cực",
-      "nguon": "CafeF Vĩ mô, VnExpress Kinh doanh",
-      "so_nguon": 2,
-      "thoi_gian": "2026-11-05 12:29",
-      "link": "https://vnexpress.net/von-fdi-vao-tp-hcm-tang-hon-4-lan-5141078.html"
-    },
-    {
-      "tieu_de": "Thu nhập lãi thuần một ngân hàng tăng gấp 3 lần trong 9 tháng",
+      "tieu_de": "Cổ phiếu vừa được “giải cứu”, Chủ tịch và loạt cổ đông liên quan lập tức bị bán giải chấp hơn 43 triệu đơn vị",
       "chu_de": "Doanh nghiệp niêm yết",
       "diem_tac_dong": 7,
-      "ly_do": "Thu nhập lãi thuần của PVcomBank tăng mạnh, cho thấy hiệu quả kinh doanh.",
-      "sac_thai": "tích cực",
-      "nguon": "VietnamBiz Tài chính",
+      "ly_do": "Cổ phiếu KOS bị bán giải chấp sau chuỗi giảm sàn, ảnh hưởng đến niềm tin nhà đầu tư.",
+      "sac_thai": "tiêu cực",
+      "nguon": "CafeF Chứng khoán",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 19:07",
-      "link": "https://vietnambiz.vn/thu-nhap-lai-thuan-mot-ngan-hang-tang-gap-3-lan-trong-9-thang-202611422235897.htm"
+      "thoi_gian": "2026-11-05 11:19",
+      "link": "https://cafef.vn/co-phieu-vua-duoc-giai-cuu-chu-tich-va-loat-co-dong-lien-quan-lap-tuc-bi-ban-giai-chap-hon-43-trieu-don-vi-188261105105954188.chn"
     },
     {
-      "tieu_de": "Tập đoàn bảo hiểm thu gần 7.600 tỷ đồng lãi tiền gửi trong 9 tháng",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 7,
-      "ly_do": "Tập đoàn bảo hiểm thu lãi tiền gửi lớn, phản ánh hiệu quả đầu tư tài chính.",
-      "sac_thai": "tích cực",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-05 19:07",
-      "link": "https://vietnambiz.vn/tap-doan-bao-hiem-thu-gan-7600-ty-dong-lai-tien-gui-trong-9-thang-202611414350234.htm"
-    },
-    {
-      "tieu_de": "Cổ đông Nhà nước muốn thoái hết vốn tại Eximbank, giá khởi điểm 17.393 đồng/cp",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 7,
-      "ly_do": "Nhà nước thoái vốn tại Eximbank, tác động đến cơ cấu cổ đông và giá cổ phiếu.",
-      "sac_thai": "trung tính",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-05 19:07",
-      "link": "https://vietnambiz.vn/co-dong-nha-nuoc-muon-thoai-het-von-tai-eximbank-gia-khoi-diem-17393-dongcp-202611494922254.htm"
-    },
-    {
-      "tieu_de": "Kho bạc Nhà nước gửi hơn 500.000 tỷ tại ba 'Big4', tăng 28% so với cuối 2025",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 7,
-      "ly_do": "Tiền gửi Kho bạc Nhà nước tại Big4 tăng, ảnh hưởng đến thanh khoản hệ thống ngân hàng.",
-      "sac_thai": "tích cực",
-      "nguon": "VietnamBiz Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-05 19:07",
-      "link": "https://vietnambiz.vn/kho-bac-nha-nuoc-gui-hon-500000-ty-tai-ba-big4-tang-28-so-voi-cuoi-2025-2026112135852364.htm"
-    },
-    {
-      "tieu_de": "Đề xuất giữ nguyên nhóm nợ đến hết năm 2027 cho doanh nghiệp khó khăn",
+      "tieu_de": "Sacombank tiếp tục tung gói lãi suất cho vay 7,9%/năm, góp sức cùng mục tiêu tăng trưởng GDP hai chữ số",
       "chu_de": "Chính sách & NHNN",
-      "diem_tac_dong": 7,
-      "ly_do": "Đề xuất giữ nguyên nhóm nợ và giảm lãi suất hỗ trợ doanh nghiệp, tác động tích cực.",
+      "diem_tac_dong": 6,
+      "ly_do": "Gói lãi suất cho vay thấp của Sacombank hỗ trợ doanh nghiệp, thúc đẩy tăng trưởng tín dụng.",
       "sac_thai": "tích cực",
       "nguon": "VietnamBiz Tài chính",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 19:07",
-      "link": "https://vietnambiz.vn/de-xuat-giu-nguyen-nhom-no-den-het-nam-2027-cho-doanh-nghiep-kho-khan-202611120017523.htm"
+      "thoi_gian": "2026-11-06 03:34",
+      "link": "https://vietnambiz.vn/sacombank-tiep-tuc-tung-goi-lai-suat-cho-vay-79nam-gop-suc-cung-muc-tieu-tang-truong-gdp-hai-chu-so-2026112163043140.htm"
     },
     {
       "tieu_de": "Đột biến sang tay hơn 100 triệu cổ phiếu chứng khoán",
       "chu_de": "Doanh nghiệp niêm yết",
       "diem_tac_dong": 6,
-      "ly_do": "Cổ phiếu VIX có thanh khoản đột biến, cho thấy sự quan tâm của nhà đầu tư.",
+      "ly_do": "Thanh khoản đột biến của cổ phiếu VIX cho thấy sự quan tâm lớn của nhà đầu tư.",
       "sac_thai": "trung tính",
       "nguon": "CafeF Chứng khoán",
       "so_nguon": 1,
@@ -227,10 +260,10 @@
       "tieu_de": "Quốc Cường Gia Lai sắp trả cổ tức năm 2021 bằng cổ phiếu tỷ lệ 10%",
       "chu_de": "Doanh nghiệp niêm yết",
       "diem_tac_dong": 6,
-      "ly_do": "Quốc Cường Gia Lai chia cổ tức bằng cổ phiếu, ảnh hưởng giá và số lượng cổ phiếu.",
-      "sac_thai": "tích cực",
-      "nguon": "CafeF Chứng khoán, VnExpress Kinh doanh",
-      "so_nguon": 2,
+      "ly_do": "Quốc Cường Gia Lai trả cổ tức bằng cổ phiếu làm tăng số lượng cổ phiếu lưu hành.",
+      "sac_thai": "trung tính",
+      "nguon": "CafeF Chứng khoán",
+      "so_nguon": 1,
       "thoi_gian": "2026-11-05 08:55",
       "link": "https://cafef.vn/quoc-cuong-gia-lai-sap-tra-co-tuc-nam-2021-bang-co-phieu-ty-le-10-18826110508553624.chn"
     },
@@ -238,7 +271,7 @@
       "tieu_de": "Cổ phiếu trụ tiếp tục đỡ chứng khoán",
       "chu_de": "Dòng tiền & khối ngoại",
       "diem_tac_dong": 6,
-      "ly_do": "Cổ phiếu trụ thu hút lực mua, giúp VN-Index phục hồi.",
+      "ly_do": "Cổ phiếu trụ đỡ thị trường, cho thấy dòng tiền tập trung vào các mã lớn.",
       "sac_thai": "tích cực",
       "nguon": "VnExpress Kinh doanh",
       "so_nguon": 1,
@@ -246,10 +279,43 @@
       "link": "https://vnexpress.net/co-phieu-tru-tiep-tuc-do-chung-khoan-5141208.html"
     },
     {
+      "tieu_de": "Hé lộ lý do con trai tỷ phú Trần Đình Long không mua đủ lượng cổ phiếu HPG đăng ký",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 6,
+      "ly_do": "Giao dịch cổ phiếu HPG của cổ đông lớn ảnh hưởng đến tâm lý nhà đầu tư.",
+      "sac_thai": "tiêu cực",
+      "nguon": "CafeF Chứng khoán",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-06 00:07",
+      "link": "https://cafef.vn/he-lo-ly-do-con-trai-ty-phu-tran-dinh-long-khong-mua-du-luong-co-phieu-hpg-dang-ky-188261105224959143.chn"
+    },
+    {
+      "tieu_de": "Quỹ ngoại quy mô 23.000 tỷ lỗ gần 15% từ đầu năm, không tiếc lời khen một cổ phiếu “họ” FPT",
+      "chu_de": "Dòng tiền & khối ngoại",
+      "diem_tac_dong": 6,
+      "ly_do": "Hiệu suất quỹ ngoại và nhận định về cổ phiếu FPT ảnh hưởng đến dòng tiền.",
+      "sac_thai": "trung tính",
+      "nguon": "CafeF Chứng khoán",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-06 00:01",
+      "link": "https://cafef.vn/quy-ngoai-quy-mo-23000-ty-lo-gan-15-tu-dau-nam-khong-tiec-loi-khen-mot-co-phieu-ho-fpt-188261105230521952.chn"
+    },
+    {
+      "tieu_de": "Công ty nuôi heo bò gà của tỷ phú Trần Đình Long đã làm gì với 1.250 tỷ đồng từ IPO?",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 6,
+      "ly_do": "Việc sử dụng vốn IPO của HPA ảnh hưởng đến hoạt động kinh doanh và giá cổ phiếu.",
+      "sac_thai": "trung tính",
+      "nguon": "CafeF Doanh nghiệp",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-06 00:16",
+      "link": "https://cafef.vn/cong-ty-nuoi-heo-bo-ga-cua-ty-phu-tran-dinh-long-da-lam-gi-voi-1250-ty-dong-tu-ipo-188261105145305642.chn"
+    },
+    {
       "tieu_de": "Một cổ phiếu ngân hàng bất ngờ được tự doanh CTCK \"gom\" mạnh phiên 5/11",
       "chu_de": "Dòng tiền & khối ngoại",
       "diem_tac_dong": 6,
-      "ly_do": "Tự doanh CTCK mua ròng cổ phiếu ngân hàng, hỗ trợ giá cổ phiếu.",
+      "ly_do": "Tự doanh CTCK mua ròng cổ phiếu ngân hàng cho thấy dòng tiền nội đang hỗ trợ thị trường.",
       "sac_thai": "tích cực",
       "nguon": "CafeF Chứng khoán",
       "so_nguon": 1,
@@ -257,81 +323,15 @@
       "link": "https://cafef.vn/mot-co-phieu-ngan-hang-bat-ngo-duoc-tu-doanh-ctck-gom-manh-phien-5-11-188261105174030846.chn"
     },
     {
-      "tieu_de": "Con trai tỷ phú Trần Đình Long chỉ mua 1/5 số cổ phiếu HPG đã đăng ký",
-      "chu_de": "Doanh nghiệp niêm yết",
+      "tieu_de": "Chỉ đạo mới nhất của Bộ Chính trị về siêu quy hoạch đầu tiên sau sáp nhập, tầm nhìn 100 năm của TP.HCM",
+      "chu_de": "Chính sách & NHNN",
       "diem_tac_dong": 6,
-      "ly_do": "Con trai Chủ tịch HPG không mua đủ số cổ phiếu đăng ký, ảnh hưởng tâm lý nhà đầu tư.",
-      "sac_thai": "tiêu cực",
-      "nguon": "CafeF Chứng khoán",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-05 17:40",
-      "link": "https://cafef.vn/con-trai-ty-phu-tran-dinh-long-chi-mua-1-5-so-co-phieu-hpg-da-dang-ky-188261105173848906.chn"
-    },
-    {
-      "tieu_de": "Công ty 6 nhân viên ở Hà Nội: Lãi 1.229 tỷ từ năm 2024 đến nay, trả cổ tức 270%, vẫn còn 450 tỷ đồng tiền gửi",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 6,
-      "ly_do": "Doanh nghiệp báo lãi lớn nhờ tiền gửi, cho thấy hiệu quả quản lý tài chính.",
+      "ly_do": "Quy hoạch TP.HCM tầm nhìn 100 năm sẽ tác động lớn đến ngành BĐS và đầu tư công.",
       "sac_thai": "tích cực",
-      "nguon": "CafeF Doanh nghiệp",
+      "nguon": "CafeF Vĩ mô",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-05 07:03",
-      "link": "https://cafef.vn/cong-ty-6-nhan-vien-o-ha-noi-lai-1299-ty-tu-nam-2024-den-nay-tra-co-tuc-270-van-con-450-ty-dong-tien-gui-188261105070346708.chn"
-    },
-    {
-      "tieu_de": "Tổng giám đốc An Phát Holdings bán ra toàn bộ cổ phiếu",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 6,
-      "ly_do": "Tổng giám đốc An Phát Holdings bán toàn bộ cổ phiếu, ảnh hưởng tâm lý nhà đầu tư.",
-      "sac_thai": "tiêu cực",
-      "nguon": "CafeF Chứng khoán",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-05 12:32",
-      "link": "https://cafef.vn/tong-giam-doc-an-phat-holdings-ban-ra-toan-bo-co-phieu-188261105123249839.chn"
-    },
-    {
-      "tieu_de": "Cổ phiếu vừa được “giải cứu”, Chủ tịch và loạt cổ đông liên quan lập tức bị bán giải chấp hơn 43 triệu đơn vị",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 6,
-      "ly_do": "Cổ phiếu KOS bị bán giải chấp lớn, ảnh hưởng đến giá và tâm lý nhà đầu tư.",
-      "sac_thai": "tiêu cực",
-      "nguon": "CafeF Chứng khoán",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-05 11:19",
-      "link": "https://cafef.vn/co-phieu-vua-duoc-giai-cuu-chu-tich-va-loat-co-dong-lien-quan-lap-tuc-bi-ban-giai-chap-hon-43-trieu-don-vi-188261105105954188.chn"
-    },
-    {
-      "tieu_de": "Ông Nguyễn Đỗ Lăng đăng ký bán 20 triệu cổ phiếu APS và API",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 6,
-      "ly_do": "Ông Nguyễn Đỗ Lăng đăng ký bán lượng lớn cổ phiếu, ảnh hưởng giá cổ phiếu.",
-      "sac_thai": "tiêu cực",
-      "nguon": "CafeF Chứng khoán",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-05 10:43",
-      "link": "https://cafef.vn/ong-nguyen-do-lang-dang-ky-ban-20-trieu-co-phieu-aps-va-api-188261105104406753.chn"
-    },
-    {
-      "tieu_de": "Trung Quốc bất ngờ báo tin không vui cho toàn thế giới",
-      "chu_de": "Thế giới & địa chính trị",
-      "diem_tac_dong": 6,
-      "ly_do": "Xuất khẩu diesel Trung Quốc giảm mạnh, ảnh hưởng giá năng lượng toàn cầu.",
-      "sac_thai": "tiêu cực",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-05 19:01",
-      "link": "https://cafef.vn/trung-quoc-bat-ngo-bao-tin-khong-vui-cho-toan-the-gioi-188261105175752828.chn"
-    },
-    {
-      "tieu_de": "Nhập khẩu của Mỹ lên cao kỷ lục",
-      "chu_de": "Thế giới & địa chính trị",
-      "diem_tac_dong": 6,
-      "ly_do": "Nhập khẩu của Mỹ lên cao kỷ lục, cho thấy sức mua và ảnh hưởng thương mại toàn cầu.",
-      "sac_thai": "tích cực",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-05 16:30",
-      "link": "https://vnexpress.net/nhap-khau-cua-my-len-cao-ky-luc-5141248.html"
+      "thoi_gian": "2026-11-05 20:00",
+      "link": "https://cafef.vn/chi-dao-moi-nhat-cua-bo-chinh-tri-ve-quy-hoach-tong-the-dau-tien-sau-sap-nhap-tam-nhin-100-nam-cua-thanh-pho-giau-nhat-ca-nuoc-188261105191311809.chn"
     }
   ]
 }
