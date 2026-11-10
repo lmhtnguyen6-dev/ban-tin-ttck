@@ -1,5 +1,5 @@
 {
-  "cap_nhat_luc": "2026-11-09 22:56:56",
+  "cap_nhat_luc": "2026-11-10 07:06:56",
   "che_do": "ai",
   "so_tin": 30,
   "tin": [
@@ -15,21 +15,10 @@
       "link": "https://cafef.vn/chinh-phu-yeu-cau-ngan-hang-nha-nuoc-xu-ly-nghiem-cac-ngan-hang-khong-giam-lai-suat-cho-vay-giam-sat-kha-nang-tra-no-cua-doanh-nghiep-bat-dong-san-188261109170944101.chn"
     },
     {
-      "tieu_de": "Nóng: Ngân hàng Nhà nước sẽ mua ngoại tệ giao ngay, bơm VND cho hệ thống ngân hàng vào thứ Hai và thứ Tư hằng tuần từ ngày 11/11",
-      "chu_de": "Chính sách & NHNN",
-      "diem_tac_dong": 9,
-      "ly_do": "NHNN mua ngoại tệ giao ngay, bơm VND cho hệ thống, tác động tỷ giá và thanh khoản.",
-      "sac_thai": "tích cực",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-09 20:03",
-      "link": "https://cafef.vn/nong-ngan-hang-nha-nuoc-se-mua-ngoai-te-giao-ngay-bom-vnd-cho-he-thong-ngan-hang-vao-thu-hai-va-thu-tu-hang-tuan-tu-ngay-11-11-188261109200423359.chn"
-    },
-    {
       "tieu_de": "Fed có thể tiếp tục tăng lãi suất trong tháng 12, thị trường nâng xác suất lên 80%",
       "chu_de": "Fed & lãi suất toàn cầu",
-      "diem_tac_dong": 8,
-      "ly_do": "Fed có thể tăng lãi suất, ảnh hưởng chính sách tiền tệ toàn cầu và Việt Nam.",
+      "diem_tac_dong": 9,
+      "ly_do": "Fed có thể tăng lãi suất, tác động đến chính sách tiền tệ toàn cầu và Việt Nam.",
       "sac_thai": "tiêu cực",
       "nguon": "CafeF Tài chính quốc tế",
       "so_nguon": 1,
@@ -37,43 +26,32 @@
       "link": "https://cafef.vn/fed-co-the-tiep-tuc-tang-lai-suat-trong-thang-12-thi-truong-nang-xac-suat-len-80-188261109155500804.chn"
     },
     {
-      "tieu_de": "Chứng khoán chao đảo, dòng tiền bắt đáy dè dặt",
-      "chu_de": "Dòng tiền & khối ngoại",
-      "diem_tac_dong": 8,
-      "ly_do": "Chứng khoán chao đảo, khối ngoại bán ròng, gia tăng áp lực lên thị trường.",
-      "sac_thai": "tiêu cực",
-      "nguon": "CafeF Chứng khoán, VnExpress Kinh doanh",
-      "so_nguon": 2,
-      "thoi_gian": "2026-11-09 17:37",
-      "link": "https://cafef.vn/chung-khoan-chao-dao-dong-tien-bat-day-de-dat-188261109171923616.chn"
+      "tieu_de": "Nóng: Ngân hàng Nhà nước sẽ mua ngoại tệ giao ngay, bơm VND cho hệ thống ngân hàng vào thứ Hai và thứ Tư hằng tuần từ ngày 11/11",
+      "chu_de": "Chính sách & NHNN",
+      "diem_tac_dong": 9,
+      "ly_do": "NHNN mua ngoại tệ giao ngay, bơm VND cho hệ thống, tác động đến tỷ giá và thanh khoản.",
+      "sac_thai": "tích cực",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-09 20:03",
+      "link": "https://cafef.vn/nong-ngan-hang-nha-nuoc-se-mua-ngoai-te-giao-ngay-bom-vnd-cho-he-thong-ngan-hang-vao-thu-hai-va-thu-tu-hang-tuan-tu-ngay-11-11-188261109200423359.chn"
     },
     {
-      "tieu_de": "KIS Research: Xuất siêu 7,31 tỷ USD, xuất khẩu dẫn dắt tăng trưởng",
+      "tieu_de": "VDSC: Mức tăng trưởng lợi nhuận của các doanh nghiệp quý IV có thể thấp nhất một năm",
       "chu_de": "Vĩ mô Việt Nam",
       "diem_tac_dong": 8,
-      "ly_do": "Xuất siêu lớn, xuất khẩu dẫn dắt tăng trưởng, FDI dồi dào, tích cực cho kinh tế.",
-      "sac_thai": "tích cực",
-      "nguon": "CafeF Chứng khoán",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-09 08:00",
-      "link": "https://cafef.vn/kis-research-xuat-sieu-731-ty-usd-xuat-khau-dan-dat-tang-truong-188261107091739715.chn"
-    },
-    {
-      "tieu_de": "HOSE bất ngờ ngắt kết nối giao dịch với một công ty chứng khoán từ ngày 9/11",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 7,
-      "ly_do": "HOSE ngắt kết nối giao dịch với công ty chứng khoán, ảnh hưởng hoạt động doanh nghiệp.",
+      "ly_do": "Dự báo lợi nhuận doanh nghiệp thấp nhất trong một năm ảnh hưởng đến tâm lý thị trường.",
       "sac_thai": "tiêu cực",
-      "nguon": "CafeF Chứng khoán",
+      "nguon": "VnExpress Kinh doanh",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-09 22:18",
-      "link": "https://cafef.vn/hose-bat-ngo-ngat-ket-noi-giao-dich-voi-mot-cong-ty-chung-khoan-tu-ngay-9-11-188261109221513496.chn"
+      "thoi_gian": "2026-11-10 03:06",
+      "link": "https://vnexpress.net/vdsc-muc-tang-truong-loi-nhuan-cua-cac-doanh-nghiep-quy-iv-co-the-thap-nhat-mot-nam-5142669.html"
     },
     {
       "tieu_de": "Phiên 9/11: Khối ngoại bán ròng hơn 800 tỷ đồng, xả mạnh một \"cổ phiếu quốc dân\"",
       "chu_de": "Dòng tiền & khối ngoại",
-      "diem_tac_dong": 7,
-      "ly_do": "Khối ngoại bán ròng mạnh, gây áp lực lên thị trường chứng khoán Việt Nam.",
+      "diem_tac_dong": 8,
+      "ly_do": "Khối ngoại bán ròng mạnh gây áp lực tiêu cực lên thị trường chứng khoán.",
       "sac_thai": "tiêu cực",
       "nguon": "CafeF Chứng khoán",
       "so_nguon": 1,
@@ -81,10 +59,65 @@
       "link": "https://cafef.vn/phien-9-11-khoi-ngoai-ban-rong-hon-800-ty-dong-xa-manh-mot-co-phieu-quoc-dan-188261109153139819.chn"
     },
     {
+      "tieu_de": "Warren Buffett và CEO Berkshire Hathaway bán ròng cổ phiếu 15/16 quý, gióng cảnh báo 377 tỷ đô tới Phố Wall",
+      "chu_de": "Thế giới & địa chính trị",
+      "diem_tac_dong": 8,
+      "ly_do": "Warren Buffett tích trữ tiền mặt gióng cảnh báo về thị trường toàn cầu.",
+      "sac_thai": "tiêu cực",
+      "nguon": "CafeF Tài chính quốc tế",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-09 21:55",
+      "link": "https://cafef.vn/warren-buffett-va-ceo-berkshire-hathaway-ban-rong-co-phieu-15-16-quy-giong-canh-bao-377-ty-do-toi-pho-wall-188261109215428674.chn"
+    },
+    {
+      "tieu_de": "Chứng khoán chao đảo, dòng tiền bắt đáy dè dặt",
+      "chu_de": "Vĩ mô Việt Nam",
+      "diem_tac_dong": 8,
+      "ly_do": "Chứng khoán chao đảo, thanh khoản co hẹp và khối ngoại bán ròng gây áp lực.",
+      "sac_thai": "tiêu cực",
+      "nguon": "CafeF Chứng khoán, VnExpress Kinh doanh",
+      "so_nguon": 2,
+      "thoi_gian": "2026-11-09 17:37",
+      "link": "https://cafef.vn/chung-khoan-chao-dao-dong-tien-bat-day-de-dat-188261109171923616.chn"
+    },
+    {
+      "tieu_de": "Giá dầu cao đẩy lạm phát sản xuất Trung Quốc tăng nhanh nhất gần 4,5 năm",
+      "chu_de": "Vĩ mô Việt Nam",
+      "diem_tac_dong": 7,
+      "ly_do": "Lạm phát sản xuất tại Trung Quốc tăng nhanh có thể ảnh hưởng đến lạm phát và chi phí sản xuất tại Việt Nam.",
+      "sac_thai": "tiêu cực",
+      "nguon": "VietnamBiz Hàng hóa",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-10 07:06",
+      "link": "https://vietnambiz.vn/gia-dau-cao-day-lam-phat-san-xuat-trung-quoc-tang-nhanh-nhat-gan-45-nam-2026119114144705.htm"
+    },
+    {
+      "tieu_de": "HOSE bất ngờ ngắt kết nối giao dịch với một công ty chứng khoán từ ngày 9/11",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 7,
+      "ly_do": "HOSE ngắt kết nối giao dịch ảnh hưởng trực tiếp đến hoạt động của công ty chứng khoán.",
+      "sac_thai": "tiêu cực",
+      "nguon": "CafeF Chứng khoán",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-09 22:18",
+      "link": "https://cafef.vn/hose-bat-ngo-ngat-ket-noi-giao-dich-voi-mot-cong-ty-chung-khoan-tu-ngay-9-11-188261109221513496.chn"
+    },
+    {
+      "tieu_de": "Tỷ phú Bill Gates bất ngờ mua thêm 200.000 cổ phiếu một công ty bất động sản Việt Nam",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 7,
+      "ly_do": "Quỹ của tỷ phú Bill Gates mua thêm cổ phiếu DXG, tác động tích cực đến cổ phiếu này.",
+      "sac_thai": "tích cực",
+      "nguon": "CafeF Chứng khoán, CafeF Doanh nghiệp",
+      "so_nguon": 2,
+      "thoi_gian": "2026-11-10 00:03",
+      "link": "https://cafef.vn/ty-phu-bill-gates-bat-ngo-mua-them-200000-co-phieu-mot-cong-ty-bat-dong-san-viet-nam-188261109233549925.chn"
+    },
+    {
       "tieu_de": "MB Capital, FPT Capital, Chứng khoán KIS, nhà đầu tư Hàn Quốc cùng dự kiến mua một cổ phiếu ngân hàng",
       "chu_de": "Doanh nghiệp niêm yết",
       "diem_tac_dong": 7,
-      "ly_do": "Nhiều quỹ và nhà đầu tư dự kiến mua cổ phiếu ngân hàng, tác động giá cổ phiếu.",
+      "ly_do": "Các quỹ và nhà đầu tư lớn dự kiến mua cổ phiếu ngân hàng, tác động tích cực.",
       "sac_thai": "tích cực",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
@@ -92,10 +125,32 @@
       "link": "https://cafef.vn/mb-capital-fpt-capital-chung-khoan-kis-nha-dau-tu-han-quoc-cung-du-kien-mua-mot-co-phieu-ngan-hang-188261109142631982.chn"
     },
     {
+      "tieu_de": "Loạt thương hiệu Việt về tay nước ngoài: Cuộc đi săn ngầm giữa cơn bão bán ròng hàng trăm nghìn tỷ trên sàn chứng khoán",
+      "chu_de": "Dòng tiền & khối ngoại",
+      "diem_tac_dong": 7,
+      "ly_do": "Khối ngoại bán ròng nhưng vẫn thâu tóm doanh nghiệp Việt, cho thấy dòng tiền lớn.",
+      "sac_thai": "trung tính",
+      "nguon": "CafeF Chứng khoán",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-10 00:03",
+      "link": "https://cafef.vn/loat-thuong-hieu-viet-ve-tay-nuoc-ngoai-cuoc-di-san-ngam-giua-con-bao-ban-rong-hang-tram-nghin-ty-tren-san-chung-khoan-188261109230616695.chn"
+    },
+    {
+      "tieu_de": "“Gà đẻ trứng vàng” HGI của bầu Đức vừa lên UPCoM, cổ đông sắp nhận cổ tức tiền mặt 7%",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 7,
+      "ly_do": "Cổ phiếu HGI lên sàn UPCoM và chia cổ tức tiền mặt, tác động tích cực đến cổ đông.",
+      "sac_thai": "tích cực",
+      "nguon": "CafeF Chứng khoán",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-09 17:59",
+      "link": "https://cafef.vn/ga-de-trung-vang-hgi-cua-bau-duc-vua-len-upcom-co-dong-sap-nhan-co-tuc-tien-mat-7-188261109175949788.chn"
+    },
+    {
       "tieu_de": "Chứng khoán TCBS: \"Áp lực chi phí vốn của ngành chưa được chuyển sang khách vay margin\"",
       "chu_de": "Doanh nghiệp niêm yết",
       "diem_tac_dong": 7,
-      "ly_do": "Áp lực chi phí vốn ngành chứng khoán chưa chuyển sang khách vay margin.",
+      "ly_do": "Áp lực chi phí vốn ảnh hưởng đến lợi nhuận mảng margin của công ty chứng khoán.",
       "sac_thai": "tiêu cực",
       "nguon": "CafeF Chứng khoán",
       "so_nguon": 1,
@@ -103,21 +158,120 @@
       "link": "https://cafef.vn/chung-khoan-tcbs-ap-luc-chi-phi-von-cua-nganh-chua-duoc-chuyen-sang-khach-vay-margin-18826110922082544.chn"
     },
     {
+      "tieu_de": "MB phát hành lô trái phiếu có kỳ hạn 6 năm, lãi suất 9%/năm",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 7,
+      "ly_do": "MB phát hành trái phiếu huy động vốn, tác động đến nguồn vốn và lãi suất ngân hàng.",
+      "sac_thai": "trung tính",
+      "nguon": "CafeF Tài chính",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-09 15:36",
+      "link": "https://cafef.vn/mb-phat-hanh-lo-trai-phieu-co-ky-han-6-nam-lai-suat-9-nam-188261109143655235.chn"
+    },
+    {
       "tieu_de": "Khung giá điện mặt trời cao nhất hơn 2.120 đồng một kWh",
       "chu_de": "Chính sách & NHNN",
       "diem_tac_dong": 7,
-      "ly_do": "Khung giá điện mặt trời cao nhất được công bố, ảnh hưởng ngành năng lượng.",
+      "ly_do": "Khung giá điện mặt trời mới ảnh hưởng đến các doanh nghiệp năng lượng tái tạo.",
+      "sac_thai": "trung tính",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-10 00:00",
+      "link": "https://vnexpress.net/khung-gia-dien-mat-troi-cao-nhat-hon-2-120-dong-mot-kwh-5142638.html"
+    },
+    {
+      "tieu_de": "Giá xăng dầu hôm nay 7/11: Tiếp đà tăng nhẹ",
+      "chu_de": "Hàng hóa",
+      "diem_tac_dong": 7,
+      "ly_do": "Giá dầu thô tăng do lo ngại tấn công Iran, tác động đến chi phí doanh nghiệp.",
+      "sac_thai": "tiêu cực",
+      "nguon": "VietnamBiz Hàng hóa",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-10 07:06",
+      "link": "https://vietnambiz.vn/gia-xang-dau-hom-nay-711-tiep-da-tang-nhe-20261178113157.htm"
+    },
+    {
+      "tieu_de": "Petrolimex từng lớn gấp đôi MB nay bằng 1/4, Vinamilk từng gấp 1,5 lần Vingroup nay bằng 1/16: 10 năm viết lại bản đồ tỷ đô trên TTCK",
+      "chu_de": "Vĩ mô Việt Nam",
+      "diem_tac_dong": 7,
+      "ly_do": "Thay đổi bản đồ vốn hóa tỷ đô trên TTCK phản ánh sự dịch chuyển của các ngành.",
+      "sac_thai": "trung tính",
+      "nguon": "CafeF Doanh nghiệp",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-10 00:02",
+      "link": "https://cafef.vn/petrolimex-tung-lon-gap-doi-mb-nay-bang-1-4-vinamilk-tung-gap-15-lan-vingroup-nay-bang-1-16-10-nam-viet-lai-ban-do-ty-do-tren-ttck-188261109224125049.chn"
+    },
+    {
+      "tieu_de": "Công ty vật liệu xây dựng chốt danh sách trả cổ tức tiền mặt 25% ngay tháng này",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 7,
+      "ly_do": "Doanh nghiệp vật liệu xây dựng trả cổ tức tiền mặt 25%, tác động tích cực.",
+      "sac_thai": "tích cực",
+      "nguon": "CafeF Doanh nghiệp",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-09 10:33",
+      "link": "https://cafef.vn/cong-ty-vat-lieu-xay-dung-chot-danh-sach-tra-co-tuc-tien-mat-25-ngay-thang-nay-188261109103556163.chn"
+    },
+    {
+      "tieu_de": "Lịch chốt quyền trả cổ tức trong tuần từ ngày 9/11-13/11, tỷ lệ cao nhất 65%",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 7,
+      "ly_do": "Lịch chốt quyền trả cổ tức của nhiều doanh nghiệp, tác động đến giá cổ phiếu.",
+      "sac_thai": "tích cực",
+      "nguon": "CafeF Chứng khoán",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-09 10:15",
+      "link": "https://cafef.vn/lich-chot-quyen-tra-co-tuc-trong-tuan-tu-ngay-9-11-13-11-ty-le-cao-nhat-65-188261109101535151.chn"
+    },
+    {
+      "tieu_de": "Kinh doanh cốt lõi khởi sắc, lợi nhuận 9 tháng HDA tiếp đà tăng trưởng",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 7,
+      "ly_do": "Lợi nhuận HDA tăng trưởng, tác động tích cực đến cổ phiếu doanh nghiệp.",
+      "sac_thai": "tích cực",
+      "nguon": "CafeF Chứng khoán",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-09 13:45",
+      "link": "https://cafef.vn/kinh-doanh-cot-loi-khoi-sac-loi-nhuan-9-thang-hda-tiep-da-tang-truong-188261109134514676.chn"
+    },
+    {
+      "tieu_de": "Becamex Group huy động thành công 1.200 tỷ đồng trái phiếu",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 7,
+      "ly_do": "Becamex Group huy động thành công trái phiếu, tác động đến nguồn vốn doanh nghiệp.",
+      "sac_thai": "trung tính",
+      "nguon": "CafeF Doanh nghiệp",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-09 20:57",
+      "link": "https://cafef.vn/becamex-group-huy-dong-thanh-cong-1200-ty-dong-trai-phieu-188261109205546187.chn"
+    },
+    {
+      "tieu_de": "Công ty địa ốc của ông Trần Bá Dương lãi hơn 1.000 tỷ đồng",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 7,
+      "ly_do": "Công ty địa ốc của ông Trần Bá Dương lãi lớn, tác động tích cực đến ngành bất động sản.",
       "sac_thai": "tích cực",
       "nguon": "VnExpress Kinh doanh",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-09 22:34",
-      "link": "https://vnexpress.net/khung-gia-dien-mat-troi-cao-nhat-hon-2-120-dong-mot-kwh-5142638.html"
+      "thoi_gian": "2026-11-10 04:00",
+      "link": "https://vnexpress.net/cong-ty-dia-oc-cua-ong-tran-ba-duong-lai-hon-1-000-ty-dong-5142554.html"
+    },
+    {
+      "tieu_de": "FPT Telecom sắp phát hành hơn 110 triệu cổ phiếu thưởng cho cổ đông",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 7,
+      "ly_do": "FPT Telecom phát hành cổ phiếu thưởng, tác động tích cực đến cổ đông và vốn điều lệ.",
+      "sac_thai": "tích cực",
+      "nguon": "CafeF Chứng khoán",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-09 15:10",
+      "link": "https://cafef.vn/fpt-telecom-sap-phat-hanh-hon-110-trieu-co-phieu-thuong-cho-co-dong-188261109144524706.chn"
     },
     {
       "tieu_de": "Tăng trưởng trên 10%: Cần hiện thực hóa bằng những chuyển biến thực chất",
       "chu_de": "Vĩ mô Việt Nam",
       "diem_tac_dong": 7,
-      "ly_do": "Mục tiêu tăng trưởng trên 10% đòi hỏi giải pháp thực chất, ảnh hưởng kinh tế vĩ mô.",
+      "ly_do": "Mục tiêu tăng trưởng kinh tế trên 10% đòi hỏi giải pháp thực chất, tác động vĩ mô.",
       "sac_thai": "tích cực",
       "nguon": "CafeF Tài chính, CafeF Vĩ mô",
       "so_nguon": 2,
@@ -128,7 +282,7 @@
       "tieu_de": "MBS dự báo lợi nhuận năm 2026 của loạt doanh nghiệp “hot”, một ông lớn có thể tăng hơn 100%",
       "chu_de": "Doanh nghiệp niêm yết",
       "diem_tac_dong": 7,
-      "ly_do": "MBS dự báo lợi nhuận doanh nghiệp tăng mạnh, tác động kỳ vọng thị trường.",
+      "ly_do": "MBS dự báo lợi nhuận nhiều doanh nghiệp lớn tăng mạnh, tác động tích cực đến thị trường.",
       "sac_thai": "tích cực",
       "nguon": "CafeF Chứng khoán",
       "so_nguon": 1,
@@ -136,202 +290,48 @@
       "link": "https://cafef.vn/mbs-du-bao-loi-nhuan-nam-2026-cua-loat-doanh-nghiep-hot-mot-ong-lon-co-the-tang-hon-100-188261109144659075.chn"
     },
     {
-      "tieu_de": "Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị doanh nghiệp của Nhật đầu tư vào phát triển hệ thống hạ tầng thông minh",
-      "chu_de": "Chính sách & NHNN",
+      "tieu_de": "5.000 tỷ \"biến mất\" khỏi danh mục tự doanh CTCK sau một quý, điều gì đang diễn ra?",
+      "chu_de": "Dòng tiền & khối ngoại",
       "diem_tac_dong": 7,
-      "ly_do": "Tổng Bí thư đề nghị doanh nghiệp Nhật đầu tư hạ tầng thông minh, năng lượng xanh.",
-      "sac_thai": "tích cực",
-      "nguon": "Vietstock Kinh tế, VnExpress Kinh doanh",
-      "so_nguon": 2,
-      "thoi_gian": "2026-11-09 16:02",
-      "link": "http://vietstock.vn/2026/11/tong-bi-thu-chu-tich-nuoc-to-lam-de-nghi-doanh-nghiep-cua-nhat-dau-tu-vao-phat-trien-he-thong-ha-tang-thong-minh-761-1513053.htm"
-    },
-    {
-      "tieu_de": "Giá xăng dầu hôm nay 7/11: Tiếp đà tăng nhẹ",
-      "chu_de": "Hàng hóa",
-      "diem_tac_dong": 7,
-      "ly_do": "Giá xăng dầu tăng nhẹ do lo ngại tấn công Iran, ảnh hưởng chi phí vận tải.",
+      "ly_do": "Danh mục tự doanh CTCK giảm mạnh, phản ánh xu hướng dòng tiền và thị trường trái phiếu.",
       "sac_thai": "tiêu cực",
-      "nguon": "VietnamBiz Hàng hóa",
+      "nguon": "CafeF Chứng khoán",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-09 22:56",
-      "link": "https://vietnambiz.vn/gia-xang-dau-hom-nay-711-tiep-da-tang-nhe-20261178113157.htm"
+      "thoi_gian": "2026-11-10 00:01",
+      "link": "https://cafef.vn/5000-ty-bien-mat-khoi-danh-muc-tu-doanh-ctck-sau-mot-quy-dieu-gi-dang-dien-ra-188261109225759707.chn"
     },
     {
-      "tieu_de": "Vinamilk đạt doanh thu hơn 53.000 tỷ đồng trong 9 tháng",
+      "tieu_de": "Mỏ dầu lớn nhất Việt Nam trữ lượng hơn 500 triệu tấn vừa đón tin vui",
       "chu_de": "Doanh nghiệp niêm yết",
       "diem_tac_dong": 7,
-      "ly_do": "Vinamilk đạt doanh thu và lợi nhuận cao, phản ánh kết quả kinh doanh tích cực.",
-      "sac_thai": "tích cực",
-      "nguon": "VnExpress Kinh doanh",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-09 18:00",
-      "link": "https://vnexpress.net/vinamilk-dat-doanh-thu-hon-53-000-ty-dong-trong-9-thang-5142590.html"
-    },
-    {
-      "tieu_de": "Phó thủ tướng yêu cầu hạ cước vận tải khi chi phí nhiên liệu giảm",
-      "chu_de": "Chính sách & NHNN",
-      "diem_tac_dong": 7,
-      "ly_do": "Phó thủ tướng yêu cầu hạ cước vận tải, ảnh hưởng chi phí doanh nghiệp và lạm phát.",
-      "sac_thai": "tích cực",
-      "nguon": "Vietstock Kinh tế, VnExpress Kinh doanh",
-      "so_nguon": 2,
-      "thoi_gian": "2026-11-09 14:57",
-      "link": "https://vnexpress.net/pho-thu-tuong-yeu-cau-ha-cuoc-van-tai-khi-chi-phi-nhien-lieu-giam-5142502.html"
-    },
-    {
-      "tieu_de": "Đã giải ngân 54,3 nghìn tỷ đồng hỗ trợ doanh nghiệp và các động lực tăng trưởng",
-      "chu_de": "Vĩ mô Việt Nam",
-      "diem_tac_dong": 7,
-      "ly_do": "Giải ngân tín dụng hỗ trợ doanh nghiệp, thúc đẩy tăng trưởng kinh tế.",
-      "sac_thai": "tích cực",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-09 12:18",
-      "link": "https://cafef.vn/da-giai-ngan-543-nghin-ty-dong-ho-tro-doanh-nghiep-va-cac-dong-luc-tang-truong-188261109111826765.chn"
-    },
-    {
-      "tieu_de": "Đúng 7h15 sáng 9/11, Việt Nam đón dòng dầu đầu tiên từ giàn BK-26 của liên doanh dầu khí thu hơn 90 tỷ USD",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 7,
-      "ly_do": "Việt Nam đón dòng dầu đầu tiên từ giàn BK-26, ảnh hưởng ngành dầu khí.",
+      "ly_do": "Mỏ dầu lớn nhất Việt Nam đón tin vui, tác động tích cực đến ngành dầu khí.",
       "sac_thai": "tích cực",
       "nguon": "CafeF Doanh nghiệp",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-09 19:21",
-      "link": "https://cafef.vn/dung-7h15-sang-9-11-viet-nam-don-dong-dau-dau-tien-tu-gian-bk-26-cua-lien-doanh-dau-khi-thu-hon-90-ty-usd-188261109123723208.chn"
+      "thoi_gian": "2026-11-09 23:33",
+      "link": "https://cafef.vn/mo-dau-lon-nhat-viet-nam-tru-luong-hon-500-trieu-tan-vua-don-tin-vui-188261109233359775.chn"
     },
     {
-      "tieu_de": "Nhóm quỹ liên quan Dragon Capital quay trở lại ghế cổ đông lớn sau khi gom thêm 5 triệu cổ phiếu DXG",
+      "tieu_de": "Tôn Đông Á kinh doanh ra sao trước ngày chào sàn HoSE",
       "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 6,
-      "ly_do": "Dragon Capital gom cổ phiếu DXG, trở lại cổ đông lớn, tác động giá cổ phiếu.",
+      "diem_tac_dong": 7,
+      "ly_do": "Tôn Đông Á chào sàn HoSE, tác động đến cổ phiếu ngành thép và thị trường.",
       "sac_thai": "tích cực",
       "nguon": "CafeF Chứng khoán",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-09 18:33",
-      "link": "https://cafef.vn/nhom-quy-lien-quan-dragon-capital-quay-tro-lai-ghe-co-dong-lon-sau-khi-gom-them-5-trieu-co-phieu-dxg-188261109175803857.chn"
+      "thoi_gian": "2026-11-09 13:49",
+      "link": "https://cafef.vn/ton-dong-a-kinh-doanh-ra-sao-truoc-ngay-chao-san-hose-188261109134913086.chn"
     },
     {
-      "tieu_de": "Giá dầu cao đẩy lạm phát sản xuất Trung Quốc tăng nhanh nhất gần 4,5 năm",
-      "chu_de": "Thế giới & địa chính trị",
-      "diem_tac_dong": 6,
-      "ly_do": "Giá dầu cao đẩy lạm phát sản xuất Trung Quốc tăng, ảnh hưởng kinh tế toàn cầu.",
-      "sac_thai": "tiêu cực",
-      "nguon": "VietnamBiz Hàng hóa",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-09 22:56",
-      "link": "https://vietnambiz.vn/gia-dau-cao-day-lam-phat-san-xuat-trung-quoc-tang-nhanh-nhat-gan-45-nam-2026119114144705.htm"
-    },
-    {
-      "tieu_de": "Giá cao su hôm nay 7/11: Đồng loạt giảm theo đà lao dốc của chứng khoán",
-      "chu_de": "Hàng hóa",
-      "diem_tac_dong": 6,
-      "ly_do": "Giá cao su giảm theo chứng khoán, ảnh hưởng doanh nghiệp ngành cao su.",
-      "sac_thai": "tiêu cực",
-      "nguon": "VietnamBiz Hàng hóa",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-09 22:56",
-      "link": "https://vietnambiz.vn/gia-cao-su-hom-nay-711-dong-loat-giam-theo-da-lao-doc-cua-chung-khoan-202611617377811.htm"
-    },
-    {
-      "tieu_de": "“Gà đẻ trứng vàng” HGI của bầu Đức vừa lên UPCoM, cổ đông sắp nhận cổ tức tiền mặt 7%",
+      "tieu_de": "Giáo sư giàu nhất Việt Nam đối đầu với các quỹ ngoại thâu tóm ngược doanh nghiệp: Lợi nhuận tăng gấp 26 lần, cổ phiếu từng có giá cao nhất sàn",
       "chu_de": "Doanh nghiệp niêm yết",
       "diem_tac_dong": 6,
-      "ly_do": "Cổ phiếu HGI lên UPCoM và chia cổ tức tiền mặt, tác động giá cổ phiếu.",
-      "sac_thai": "tích cực",
-      "nguon": "CafeF Chứng khoán",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-09 17:59",
-      "link": "https://cafef.vn/ga-de-trung-vang-hgi-cua-bau-duc-vua-len-upcom-co-dong-sap-nhan-co-tuc-tien-mat-7-188261109175949788.chn"
-    },
-    {
-      "tieu_de": "Warren Buffett và CEO Berkshire Hathaway bán ròng cổ phiếu 15/16 quý, gióng cảnh báo 377 tỷ đô tới Phố Wall",
-      "chu_de": "Thế giới & địa chính trị",
-      "diem_tac_dong": 6,
-      "ly_do": "Warren Buffett bán ròng cổ phiếu, gióng cảnh báo về thị trường toàn cầu.",
-      "sac_thai": "tiêu cực",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-09 21:55",
-      "link": "https://cafef.vn/warren-buffett-va-ceo-berkshire-hathaway-ban-rong-co-phieu-15-16-quy-giong-canh-bao-377-ty-do-toi-pho-wall-188261109215428674.chn"
-    },
-    {
-      "tieu_de": "Giá thép hôm nay 7/11: Quặng sắt tăng tuần thứ hai liên tiếp",
-      "chu_de": "Hàng hóa",
-      "diem_tac_dong": 6,
-      "ly_do": "Quặng sắt tăng tuần thứ hai liên tiếp, ảnh hưởng giá thép và ngành liên quan.",
-      "sac_thai": "tích cực",
-      "nguon": "VietnamBiz Hàng hóa",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-09 22:56",
-      "link": "https://vietnambiz.vn/gia-thep-hom-nay-711-quang-sat-tang-tuan-thu-hai-lien-tiep-2026116174911761.htm"
-    },
-    {
-      "tieu_de": "MB phát hành lô trái phiếu có kỳ hạn 6 năm, lãi suất 9%/năm",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 6,
-      "ly_do": "MB phát hành trái phiếu lãi suất 9%/năm, ảnh hưởng chi phí vốn ngân hàng.",
-      "sac_thai": "trung tính",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-09 15:36",
-      "link": "https://cafef.vn/mb-phat-hanh-lo-trai-phieu-co-ky-han-6-nam-lai-suat-9-nam-188261109143655235.chn"
-    },
-    {
-      "tieu_de": "3 doanh nghiệp trên HOSE rời nhóm vốn hóa tỷ USD: Xuất hiện 2 tân binh",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 6,
-      "ly_do": "Thay đổi nhóm vốn hóa tỷ USD trên HOSE, phản ánh biến động giá cổ phiếu.",
+      "ly_do": "Thông tin về thay đổi cơ cấu cổ đông lớn và lợi nhuận của doanh nghiệp niêm yết.",
       "sac_thai": "trung tính",
       "nguon": "CafeF Doanh nghiệp",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-09 11:23",
-      "link": "https://cafef.vn/3-doanh-nghiep-tren-hose-roi-nhom-von-hoa-ty-usd-xuat-hien-2-tan-binh-188261109112633948.chn"
-    },
-    {
-      "tieu_de": "Công ty vật liệu xây dựng chốt danh sách trả cổ tức tiền mặt 25% ngay tháng này",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 6,
-      "ly_do": "Doanh nghiệp vật liệu xây dựng trả cổ tức tiền mặt 25%, tác động giá cổ phiếu.",
-      "sac_thai": "tích cực",
-      "nguon": "CafeF Doanh nghiệp",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-09 10:33",
-      "link": "https://cafef.vn/cong-ty-vat-lieu-xay-dung-chot-danh-sach-tra-co-tuc-tien-mat-25-ngay-thang-nay-188261109103556163.chn"
-    },
-    {
-      "tieu_de": "Lịch chốt quyền trả cổ tức trong tuần từ ngày 9/11-13/11, tỷ lệ cao nhất 65%",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 6,
-      "ly_do": "Nhiều doanh nghiệp chốt quyền trả cổ tức, tác động giá cổ phiếu và dòng tiền.",
-      "sac_thai": "tích cực",
-      "nguon": "CafeF Chứng khoán",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-09 10:15",
-      "link": "https://cafef.vn/lich-chot-quyen-tra-co-tuc-trong-tuan-tu-ngay-9-11-13-11-ty-le-cao-nhat-65-188261109101535151.chn"
-    },
-    {
-      "tieu_de": "Kinh doanh cốt lõi khởi sắc, lợi nhuận 9 tháng HDA tiếp đà tăng trưởng",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 6,
-      "ly_do": "Lợi nhuận HDA tăng trưởng, phản ánh kết quả kinh doanh tích cực của doanh nghiệp.",
-      "sac_thai": "tích cực",
-      "nguon": "CafeF Chứng khoán",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-09 13:45",
-      "link": "https://cafef.vn/kinh-doanh-cot-loi-khoi-sac-loi-nhuan-9-thang-hda-tiep-da-tang-truong-188261109134514676.chn"
-    },
-    {
-      "tieu_de": "Becamex Group huy động thành công 1.200 tỷ đồng trái phiếu",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 6,
-      "ly_do": "Becamex Group huy động thành công 1.200 tỷ đồng trái phiếu, ảnh hưởng tài chính.",
-      "sac_thai": "tích cực",
-      "nguon": "CafeF Doanh nghiệp",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-09 20:57",
-      "link": "https://cafef.vn/becamex-group-huy-dong-thanh-cong-1200-ty-dong-trai-phieu-188261109205546187.chn"
+      "thoi_gian": "2026-11-10 00:01",
+      "link": "https://cafef.vn/giao-su-giau-nhat-viet-nam-doi-dau-voi-cac-quy-ngoai-thau-tom-nguoc-doanh-nghiep-loi-nhuan-tang-gap-26-lan-co-phieu-tung-co-gia-cao-nhat-san-188261109005409762.chn"
     }
   ]
 }
