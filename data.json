@@ -1,24 +1,24 @@
 {
-  "cap_nhat_luc": "2026-11-13 01:07:17",
+  "cap_nhat_luc": "2026-11-13 07:06:02",
   "che_do": "ai",
   "so_tin": 30,
   "tin": [
     {
-      "tieu_de": "Jensen Huang từng \"tiên đoán\" về việc có thể bị sa thải, có người khác thay thế vị trí CEO Nvidia",
+      "tieu_de": "Toàn văn thông báo chính thức của Nvidia về việc Jensen Huang từ chức CEO, công bố người tạm quyền thay thế",
       "chu_de": "Thế giới & địa chính trị",
       "diem_tac_dong": 9,
-      "ly_do": "Thông tin về CEO Nvidia Jensen Huang và khả năng kế nhiệm ảnh hưởng đến cổ phiếu AI.",
+      "ly_do": "Nvidia thông báo chính thức về việc Jensen Huang từ chức CEO, ảnh hưởng lớn.",
       "sac_thai": "tiêu cực",
-      "nguon": "CafeF Chứng khoán, CafeF Tài chính quốc tế, VnExpress Kinh doanh",
-      "so_nguon": 3,
-      "thoi_gian": "2026-11-12 22:53",
-      "link": "https://cafef.vn/jensen-huang-tung-tien-doan-ve-viec-co-the-bi-sa-thai-co-nguoi-khac-thay-the-vi-tri-ceo-nvidia-188261112225353263.chn"
+      "nguon": "CafeF Chứng khoán, CafeF Tài chính quốc tế, VnExpress Kinh doanh, VnExpress Thế giới",
+      "so_nguon": 4,
+      "thoi_gian": "2026-11-12 22:51",
+      "link": "https://cafef.vn/toan-van-thong-bao-chinh-thuc-cua-nvidia-ve-viec-jensen-huang-tu-chuc-ceo-cong-bo-nguoi-tam-quyen-thay-the-188261112225140272.chn"
     },
     {
       "tieu_de": "Gần 200 cổ phiếu giảm giá, khối ngoại bán ròng đột biến",
       "chu_de": "Dòng tiền & khối ngoại",
       "diem_tac_dong": 8,
-      "ly_do": "Thị trường giảm mạnh, khối ngoại bán ròng đột biến gây áp lực lên cổ phiếu.",
+      "ly_do": "Thị trường giảm mạnh, khối ngoại bán ròng đột biến, ảnh hưởng tâm lý nhà đầu tư.",
       "sac_thai": "tiêu cực",
       "nguon": "CafeF Chứng khoán, VnExpress Kinh doanh",
       "so_nguon": 2,
@@ -29,7 +29,7 @@
       "tieu_de": "Fed sẽ liên tục tăng lãi suất kể từ tháng 12?",
       "chu_de": "Fed & lãi suất toàn cầu",
       "diem_tac_dong": 8,
-      "ly_do": "Lạm phát Mỹ tăng tốc, Fed đứng trước sức ép nâng lãi suất liên tục.",
+      "ly_do": "Lạm phát Mỹ tăng tốc, Fed có thể tăng lãi suất liên tục, ảnh hưởng toàn cầu.",
       "sac_thai": "tiêu cực",
       "nguon": "CafeF Tài chính quốc tế",
       "so_nguon": 1,
@@ -40,7 +40,7 @@
       "tieu_de": "FPT Telecom sắp chi gần 1.500 tỷ đồng trả cổ tức, Bộ Công an nhận hơn 741 tỷ đồng và hàng chục triệu cổ phiếu thưởng",
       "chu_de": "Doanh nghiệp niêm yết",
       "diem_tac_dong": 7,
-      "ly_do": "FPT Telecom chi trả cổ tức tiền mặt và cổ phiếu thưởng, tác động trực tiếp đến cổ đông.",
+      "ly_do": "FPT Telecom trả cổ tức tiền mặt và cổ phiếu thưởng, tác động trực tiếp đến cổ đông.",
       "sac_thai": "tích cực",
       "nguon": "CafeF Doanh nghiệp",
       "so_nguon": 1,
@@ -51,7 +51,7 @@
       "tieu_de": "Mất gần 50.000 tỷ vốn hóa, 'đại gia' hàng tiêu dùng lớn nhất sàn chứng khoán xuống đáy 1 năm",
       "chu_de": "Doanh nghiệp niêm yết",
       "diem_tac_dong": 7,
-      "ly_do": "Cổ phiếu của doanh nghiệp tiêu dùng lớn nhất sàn chứng khoán giảm giá mạnh.",
+      "ly_do": "Cổ phiếu doanh nghiệp tiêu dùng lớn nhất sàn giảm giá mạnh, mất vốn hóa.",
       "sac_thai": "tiêu cực",
       "nguon": "CafeF Doanh nghiệp",
       "so_nguon": 1,
@@ -62,7 +62,7 @@
       "tieu_de": "Một cổ phiếu vừa lên UPCoM đã tăng trần 4 phiên liên tiếp, vốn hóa tăng gấp đôi gần 4.700 tỷ",
       "chu_de": "Doanh nghiệp niêm yết",
       "diem_tac_dong": 7,
-      "ly_do": "Cổ phiếu mới lên sàn UPCoM tăng trần liên tiếp, vốn hóa tăng gấp đôi.",
+      "ly_do": "Cổ phiếu mới lên sàn tăng trần liên tiếp, vốn hóa tăng gấp đôi.",
       "sac_thai": "tích cực",
       "nguon": "CafeF Doanh nghiệp",
       "so_nguon": 1,
@@ -70,21 +70,43 @@
       "link": "https://cafef.vn/mot-co-phieu-vua-len-upcom-da-tang-tran-4-phien-lien-tiep-von-hoa-tang-gap-doi-gan-4700-ty-188261112160348633.chn"
     },
     {
-      "tieu_de": "Chứng khoán Việt Nam đi xuống sau nâng hạng, Chủ tịch VSDC chỉ ra điều còn thiếu để hút dòng vốn ngoại",
-      "chu_de": "Vĩ mô Việt Nam",
+      "tieu_de": "Cổ phiếu bất động sản của Tiến sĩ quản trị kinh doanh Tô Như Toàn lập đỉnh mới, tăng 35% trong hơn 1 tháng",
+      "chu_de": "Doanh nghiệp niêm yết",
       "diem_tac_dong": 7,
-      "ly_do": "Chủ tịch VSDC chỉ ra điều còn thiếu để hút vốn ngoại sau nâng hạng.",
-      "sac_thai": "trung tính",
+      "ly_do": "Cổ phiếu bất động sản của Văn Phú Invest lập đỉnh mới, tăng mạnh.",
+      "sac_thai": "tích cực",
+      "nguon": "CafeF Doanh nghiệp",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-13 00:02",
+      "link": "https://cafef.vn/co-phieu-bat-dong-san-cua-tien-si-quan-tri-kinh-doanh-to-nhu-toan-lap-dinh-moi-tang-35-trong-hon-1-thang-188261112212245996.chn"
+    },
+    {
+      "tieu_de": "SGI Capital: Chứng khoán vẫn còn nguy cơ vỡ nợ margin",
+      "chu_de": "Dòng tiền & khối ngoại",
+      "diem_tac_dong": 7,
+      "ly_do": "Cảnh báo nguy cơ vỡ nợ margin khi dư nợ toàn thị trường lập kỷ lục.",
+      "sac_thai": "tiêu cực",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-13 04:01",
+      "link": "https://vnexpress.net/sgi-capital-chung-khoan-van-con-nguy-co-vo-no-margin-5144031.html"
+    },
+    {
+      "tieu_de": "Doanh nghiệp vừa thay dàn lãnh đạo cấp cao, cổ phiếu bất ngờ “có biến”",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 7,
+      "ly_do": "Cổ phiếu TV1 tăng kịch trần sau khi doanh nghiệp thay đổi lãnh đạo cấp cao.",
+      "sac_thai": "tích cực",
       "nguon": "CafeF Chứng khoán",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-13 00:03",
-      "link": "https://cafef.vn/chung-khoan-viet-nam-di-xuong-sau-nang-hang-chu-tich-vsdc-chi-ra-dieu-con-thieu-de-hut-dong-von-ngoai-188261112164924677.chn"
+      "thoi_gian": "2026-11-13 00:07",
+      "link": "https://cafef.vn/doanh-nghiep-vua-thay-dan-lanh-dao-cap-cao-co-phieu-bat-ngo-co-bien-188261112214752138.chn"
     },
     {
       "tieu_de": "TS. Cấn Văn Lực: 'Việt Nam đã bước vào chu kỳ tăng trưởng mới, tôi đã tham gia trao đổi với các doanh nghiệp bất động sản, nhà đầu tư chứng khoán và có thể thấy rõ điều này'",
       "chu_de": "Vĩ mô Việt Nam",
       "diem_tac_dong": 7,
-      "ly_do": "TS. Cấn Văn Lực nhận định Việt Nam bước vào chu kỳ tăng trưởng mới.",
+      "ly_do": "Chuyên gia nhận định Việt Nam bước vào chu kỳ tăng trưởng mới, GDP dự kiến tăng cao.",
       "sac_thai": "tích cực",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
@@ -92,10 +114,21 @@
       "link": "https://cafef.vn/ts-can-van-luc-viet-nam-da-buoc-vao-chu-ky-tang-truong-moi-toi-da-tham-gia-trao-doi-voi-cac-doanh-nghiep-bat-dong-san-nha-dau-tu-chung-khoan-va-co-the-thay-ro-dieu-nay-188261112142302204.chn"
     },
     {
+      "tieu_de": "Công ty ông Trần Bá Dương chốt đơn xuất khẩu chuối gần nửa tỷ USD",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 7,
+      "ly_do": "Thaco Agri chốt đơn xuất khẩu chuối gần nửa tỷ USD, tác động tích cực.",
+      "sac_thai": "tích cực",
+      "nguon": "CafeF Doanh nghiệp, VnExpress Kinh doanh",
+      "so_nguon": 2,
+      "thoi_gian": "2026-11-13 04:44",
+      "link": "https://vnexpress.net/cong-ty-ong-tran-ba-duong-chot-don-xuat-khau-chuoi-gan-nua-ty-usd-5144068.html"
+    },
+    {
       "tieu_de": "TS Cấn Văn Lực: 'Việc giảm lãi suất không dễ dàng'",
       "chu_de": "Chính sách & NHNN",
       "diem_tac_dong": 7,
-      "ly_do": "TS Cấn Văn Lực nhận định việc giảm lãi suất không dễ dàng.",
+      "ly_do": "Chuyên gia nhận định việc giảm lãi suất không dễ dàng, ảnh hưởng thanh khoản.",
       "sac_thai": "tiêu cực",
       "nguon": "CafeF Tài chính, VnExpress Kinh doanh",
       "so_nguon": 2,
@@ -114,21 +147,43 @@
       "link": "https://cafef.vn/mb-du-kien-chao-ban-200-trieu-co-phieu-cho-6-nha-dau-tu-188261112203854871.chn"
     },
     {
-      "tieu_de": "Củng cố niềm tin, xây nền tảng dài hạn cho thị trường trái phiếu doanh nghiệp",
+      "tieu_de": "PNJ thua lỗ, giá giảm sàn, tại sao vẫn lọt rổ chỉ số quan trọng của MSCI?",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 7,
+      "ly_do": "PNJ được bổ sung vào rổ MSCI Frontier Markets Index, thông tin tích cực.",
+      "sac_thai": "tích cực",
+      "nguon": "CafeF Chứng khoán",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-13 00:02",
+      "link": "https://cafef.vn/pnj-thua-lo-gia-giam-san-tai-sao-van-lot-ro-chi-so-quan-trong-cua-msci-188261112225231116.chn"
+    },
+    {
+      "tieu_de": "Giá heo sụt giảm, loạt \"ông lớn\" chăn nuôi báo lợi nhuận \"đi lùi\"",
+      "chu_de": "Hàng hóa",
+      "diem_tac_dong": 7,
+      "ly_do": "Giá heo sụt giảm khiến lợi nhuận các doanh nghiệp chăn nuôi đi lùi.",
+      "sac_thai": "tiêu cực",
+      "nguon": "CafeF Doanh nghiệp",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-12 21:56",
+      "link": "https://cafef.vn/gia-heo-sut-giam-loat-ong-lon-chan-nuoi-bao-loi-nhuan-di-lui-18826111221560848.chn"
+    },
+    {
+      "tieu_de": "Trái phiếu doanh nghiệp tháng 10: Lãi suất lên 12,5%, áp lực đáo hạn gần 45.000 tỷ đồng",
       "chu_de": "Vĩ mô Việt Nam",
       "diem_tac_dong": 7,
-      "ly_do": "Cần củng cố thị trường trái phiếu doanh nghiệp để huy động vốn.",
-      "sac_thai": "tích cực",
+      "ly_do": "Thị trường trái phiếu doanh nghiệp áp lực đáo hạn lớn, lãi suất cao.",
+      "sac_thai": "tiêu cực",
       "nguon": "CafeF Chứng khoán, CafeF Tài chính",
       "so_nguon": 2,
-      "thoi_gian": "2026-11-12 20:30",
-      "link": "https://cafef.vn/cung-co-niem-tin-xay-nen-tang-dai-han-cho-thi-truong-trai-phieu-doanh-nghiep-188261112193040747.chn"
+      "thoi_gian": "2026-11-12 14:13",
+      "link": "https://cafef.vn/trai-phieu-doanh-nghiep-thang-10-lai-suat-len-125-ap-luc-dao-han-gan-45000-ty-dong-188261112141319609.chn"
     },
     {
       "tieu_de": "Phó Thủ tướng Nguyễn Văn Thắng: Phấn đấu giải ngân 100% vốn đầu tư công, đóng góp thêm 1.7% tăng trưởng kinh tế",
       "chu_de": "Chính sách & NHNN",
       "diem_tac_dong": 7,
-      "ly_do": "Phó Thủ tướng phấn đấu giải ngân 100% vốn đầu tư công, thúc đẩy tăng trưởng.",
+      "ly_do": "Phấn đấu giải ngân 100% vốn đầu tư công, đóng góp tăng trưởng kinh tế.",
       "sac_thai": "tích cực",
       "nguon": "Vietstock Kinh tế",
       "so_nguon": 1,
@@ -136,15 +191,26 @@
       "link": "http://vietstock.vn/2026/11/pho-thu-tuong-nguyen-van-thang-phan-dau-giai-ngan-100-von-dau-tu-cong-dong-gop-them-17-tang-truong-kinh-te-761-1514122.htm"
     },
     {
-      "tieu_de": "NHNN bắt đầu mua ngoại tệ, VNDIRECT chỉ ra tín hiệu đáng chú ý với VN-Index",
-      "chu_de": "Chính sách & NHNN",
+      "tieu_de": "Tập đoàn Bảo Việt sắp chi hơn 600 tỷ đồng trả cổ tức",
+      "chu_de": "Doanh nghiệp niêm yết",
       "diem_tac_dong": 7,
-      "ly_do": "NHNN bắt đầu mua ngoại tệ, VNDIRECT chỉ ra tín hiệu với VN-Index.",
+      "ly_do": "Tập đoàn Bảo Việt sắp chi hơn 600 tỷ đồng trả cổ tức tiền mặt.",
       "sac_thai": "tích cực",
       "nguon": "CafeF Chứng khoán",
       "so_nguon": 1,
-      "thoi_gian": "2026-11-12 06:00",
-      "link": "https://cafef.vn/nhnn-bat-dau-mua-ngoai-te-vndirect-chi-ra-tin-hieu-dang-chu-y-voi-vn-index-188261111190240006.chn"
+      "thoi_gian": "2026-11-12 11:06",
+      "link": "https://cafef.vn/tap-doan-bao-viet-sap-chi-hon-600-ty-dong-tra-co-tuc-188261112105524026.chn"
+    },
+    {
+      "tieu_de": "Loạt 'ông lớn' xây dựng Trung Quốc muốn tăng đầu tư tại Việt Nam",
+      "chu_de": "Vĩ mô Việt Nam",
+      "diem_tac_dong": 7,
+      "ly_do": "Doanh nghiệp Trung Quốc muốn tăng đầu tư vào Việt Nam, thúc đẩy FDI.",
+      "sac_thai": "tích cực",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-13 03:49",
+      "link": "https://vnexpress.net/loat-ong-lon-xay-dung-trung-quoc-muon-tang-dau-tu-tai-viet-nam-5144057.html"
     },
     {
       "tieu_de": "Thủ tướng: Cần huy động 6–6,4 triệu tỷ đồng, tương đương 36-38% GDP cho mục tiêu tăng trưởng từ 10% năm 2027",
@@ -158,15 +224,70 @@
       "link": "https://cafef.vn/thu-tuong-can-huy-dong-664-trieu-ty-dong-tuong-duong-36-38-gdp-cho-muc-tieu-tang-truong-tu-10-nam-2027-188261112170733381.chn"
     },
     {
+      "tieu_de": "Hương Ly muốn mua 5 triệu cổ phiếu giữa lúc thị giá lao dốc",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 7,
+      "ly_do": "Con gái Chủ tịch TIG đăng ký mua cổ phiếu khi thị giá lao dốc, có thể hỗ trợ giá.",
+      "sac_thai": "tích cực",
+      "nguon": "CafeF Chứng khoán",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-12 13:44",
+      "link": "https://cafef.vn/huong-ly-muon-mua-5-trieu-co-phieu-giua-luc-thi-gia-lao-doc-188261112134504809.chn"
+    },
+    {
       "tieu_de": "Vì sao VPBank tăng trưởng mạnh mẽ cả tín dụng lẫn huy động mà vẫn kiểm soát tốt nợ xấu?",
       "chu_de": "Doanh nghiệp niêm yết",
       "diem_tac_dong": 7,
-      "ly_do": "VPBank tăng trưởng tín dụng, huy động mạnh mẽ và kiểm soát tốt nợ xấu.",
+      "ly_do": "VPBank tăng trưởng mạnh tín dụng và huy động, kiểm soát tốt nợ xấu.",
       "sac_thai": "tích cực",
       "nguon": "CafeF Tài chính",
       "so_nguon": 1,
       "thoi_gian": "2026-11-12 13:30",
       "link": "https://cafef.vn/vi-sao-vpbank-tang-truong-manh-me-ca-tin-dung-lan-huy-dong-ma-van-kiem-soat-tot-no-xau-188261112124140396.chn"
+    },
+    {
+      "tieu_de": "Jollibee xác nhận thương vụ bán 11% Highlands Coffee giá 2.300 tỷ đồng vẫn chưa hoàn thành",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 7,
+      "ly_do": "Thương vụ bán vốn Highlands Coffee chưa hoàn thành, ảnh hưởng đến Jollibee.",
+      "sac_thai": "trung tính",
+      "nguon": "CafeF Doanh nghiệp",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-13 00:00",
+      "link": "https://cafef.vn/jollibee-xac-nhan-thuong-vu-ban-11-highlands-coffee-gia-2300-ty-dong-van-chua-hoan-thanh-188261112230243745.chn"
+    },
+    {
+      "tieu_de": "Taseco Land điều chỉnh hạ mục tiêu lợi nhuận năm 2026",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 7,
+      "ly_do": "Taseco Land điều chỉnh hạ mục tiêu lợi nhuận, tác động tiêu cực.",
+      "sac_thai": "tiêu cực",
+      "nguon": "CafeF Chứng khoán",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-12 14:14",
+      "link": "https://cafef.vn/taseco-land-dieu-chinh-ha-muc-tieu-loi-nhuan-nam-2026-188261112141436747.chn"
+    },
+    {
+      "tieu_de": "LPBank vào top 2 ngân hàng niêm yết hiệu quả 2026",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 7,
+      "ly_do": "LPBank vào top ngân hàng niêm yết hiệu quả, thông tin tích cực.",
+      "sac_thai": "tích cực",
+      "nguon": "VnExpress Kinh doanh",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-12 14:00",
+      "link": "https://vnexpress.net/lpbank-vao-top-2-ngan-hang-niem-yet-hieu-qua-2026-5143845.html"
+    },
+    {
+      "tieu_de": "GELEX thuộc Top 50 công ty niêm yết kinh doanh hiệu quả nhất Việt Nam năm 2026",
+      "chu_de": "Doanh nghiệp niêm yết",
+      "diem_tac_dong": 7,
+      "ly_do": "GELEX thuộc Top 50 công ty niêm yết kinh doanh hiệu quả, thông tin tích cực.",
+      "sac_thai": "tích cực",
+      "nguon": "CafeF Doanh nghiệp",
+      "so_nguon": 1,
+      "thoi_gian": "2026-11-12 13:30",
+      "link": "https://cafef.vn/gelex-thuoc-top-50-cong-ty-niem-yet-kinh-doanh-hieu-qua-nhat-viet-nam-nam-2026-188261112122220129.chn"
     },
     {
       "tieu_de": "Tôn Đông Á chính thức lên HOSE, hé lộ kế hoạch đầu tư 3.500 tỷ đồng, xây nhà máy 1,2 triệu tấn/năm",
@@ -180,6 +301,17 @@
       "link": "https://cafef.vn/ton-dong-a-chinh-thuc-len-hose-he-lo-ke-hoach-dau-tu-3500-ty-dong-xay-nha-may-12-trieu-tan-nam-188261112110848402.chn"
     },
     {
+      "tieu_de": "Sắp thí điểm đấu giá, đấu thầu quyền thu phí một số đoạn cao tốc Bắc - Nam",
+      "chu_de": "Chính sách & NHNN",
+      "diem_tac_dong": 7,
+      "ly_do": "Thí điểm đấu giá quyền thu phí cao tốc, thúc đẩy đầu tư công và hạ tầng.",
+      "sac_thai": "tích cực",
+      "nguon": "CafeF Vĩ mô, VnExpress Kinh doanh",
+      "so_nguon": 2,
+      "thoi_gian": "2026-11-12 14:00",
+      "link": "https://cafef.vn/sap-thi-diem-dau-gia-dau-thau-quyen-thu-phi-mot-so-doan-cao-toc-bac-nam-188261112133349544.chn"
+    },
+    {
       "tieu_de": "Nghịch lý: VN-Index vẫn ở vùng điểm cao, nhưng đa số cổ phiếu chứng khoán giảm giá từ đầu năm",
       "chu_de": "Dòng tiền & khối ngoại",
       "diem_tac_dong": 6,
@@ -191,39 +323,6 @@
       "link": "https://cafef.vn/nghich-ly-vn-index-van-o-vung-diem-cao-nhung-da-so-co-phieu-chung-khoan-giam-gia-tu-dau-nam-188261112112738526.chn"
     },
     {
-      "tieu_de": "VN-Index tiếp tục đi lên, cổ phiếu SHB tăng cao nhất nhóm VN30",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 6,
-      "ly_do": "Cổ phiếu SHB tăng giá mạnh, đóng góp vào đà tăng của VN-Index.",
-      "sac_thai": "tích cực",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-12 06:13",
-      "link": "https://cafef.vn/vn-index-tiep-tuc-di-len-co-phieu-shb-tang-cao-nhat-nhom-vn30-1882611120613295.chn"
-    },
-    {
-      "tieu_de": "Cổ phiếu bất động sản của Tiến sĩ quản trị kinh doanh Tô Như Toàn lập đỉnh mới, tăng 35% trong hơn 1 tháng",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 6,
-      "ly_do": "Cổ phiếu bất động sản của Văn Phú Invest lập đỉnh mới, tăng giá mạnh.",
-      "sac_thai": "tích cực",
-      "nguon": "CafeF Doanh nghiệp",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-13 00:02",
-      "link": "https://cafef.vn/co-phieu-bat-dong-san-cua-tien-si-quan-tri-kinh-doanh-to-nhu-toan-lap-dinh-moi-tang-35-trong-hon-1-thang-188261112212245996.chn"
-    },
-    {
-      "tieu_de": "Doanh nghiệp vừa thay dàn lãnh đạo cấp cao, cổ phiếu bất ngờ “có biến”",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 6,
-      "ly_do": "Cổ phiếu TV1 tăng trần sau khi doanh nghiệp thay đổi lãnh đạo cấp cao.",
-      "sac_thai": "tích cực",
-      "nguon": "CafeF Chứng khoán",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-13 00:07",
-      "link": "https://cafef.vn/doanh-nghiep-vua-thay-dan-lanh-dao-cap-cao-co-phieu-bat-ngo-co-bien-188261112214752138.chn"
-    },
-    {
       "tieu_de": "Chuyên gia Đào Phúc Tường nói về cơ hội \"đổi đời\" trên sàn chứng khoán Việt Nam",
       "chu_de": "Dòng tiền & khối ngoại",
       "diem_tac_dong": 6,
@@ -233,105 +332,6 @@
       "so_nguon": 1,
       "thoi_gian": "2026-11-13 00:03",
       "link": "https://cafef.vn/chuyen-gia-dao-phuc-tuong-noi-ve-co-hoi-doi-doi-tren-san-chung-khoan-viet-nam-188261112214055338.chn"
-    },
-    {
-      "tieu_de": "Lãi suất ngân hàng ngày 12/11 tại Agribank, Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, Sacombank, HDBank,...",
-      "chu_de": "Chính sách & NHNN",
-      "diem_tac_dong": 6,
-      "ly_do": "Lãi suất tiết kiệm trực tuyến có sự chênh lệch đáng kể giữa các ngân hàng.",
-      "sac_thai": "trung tính",
-      "nguon": "CafeF Tài chính",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-12 22:21",
-      "link": "https://cafef.vn/lai-suat-ngan-hang-ngay-12-11-tai-agribank-vietcombank-bidv-vietinbank-mb-vpbank-techcombank-sacombank-hdbank-188261112222237844.chn"
-    },
-    {
-      "tieu_de": "PNJ thua lỗ, giá giảm sàn, tại sao vẫn lọt rổ chỉ số quan trọng của MSCI?",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 6,
-      "ly_do": "PNJ được thêm vào rổ MSCI Frontier Markets Index dù thua lỗ, là tin tích cực.",
-      "sac_thai": "tích cực",
-      "nguon": "CafeF Chứng khoán",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-13 00:02",
-      "link": "https://cafef.vn/pnj-thua-lo-gia-giam-san-tai-sao-van-lot-ro-chi-so-quan-trong-cua-msci-188261112225231116.chn"
-    },
-    {
-      "tieu_de": "Giá heo sụt giảm, loạt \"ông lớn\" chăn nuôi báo lợi nhuận \"đi lùi\"",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 6,
-      "ly_do": "Giá heo sụt giảm khiến lợi nhuận các doanh nghiệp chăn nuôi đi lùi.",
-      "sac_thai": "tiêu cực",
-      "nguon": "CafeF Doanh nghiệp",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-12 21:56",
-      "link": "https://cafef.vn/gia-heo-sut-giam-loat-ong-lon-chan-nuoi-bao-loi-nhuan-di-lui-18826111221560848.chn"
-    },
-    {
-      "tieu_de": "Tự doanh CTCK \"tung\" hơn 300 tỷ mua cổ phiếu Việt Nam, mã nào là tâm điểm?",
-      "chu_de": "Dòng tiền & khối ngoại",
-      "diem_tac_dong": 6,
-      "ly_do": "Tự doanh CTCK mua ròng hơn 300 tỷ đồng cổ phiếu Việt Nam.",
-      "sac_thai": "tích cực",
-      "nguon": "CafeF Chứng khoán",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-12 18:42",
-      "link": "https://cafef.vn/tu-doanh-ctck-tung-hon-300-ty-mua-co-phieu-viet-nam-ma-nao-la-tam-diem-188261112184236163.chn"
-    },
-    {
-      "tieu_de": "Tập đoàn Bảo Việt sắp chi hơn 600 tỷ đồng trả cổ tức",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 6,
-      "ly_do": "Tập đoàn Bảo Việt sắp chi hơn 600 tỷ đồng trả cổ tức tiền mặt.",
-      "sac_thai": "tích cực",
-      "nguon": "CafeF Chứng khoán",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-12 11:06",
-      "link": "https://cafef.vn/tap-doan-bao-viet-sap-chi-hon-600-ty-dong-tra-co-tuc-188261112105524026.chn"
-    },
-    {
-      "tieu_de": "Lãi suất cao nên phân bổ đầu tư ra sao?",
-      "chu_de": "Vĩ mô Việt Nam",
-      "diem_tac_dong": 6,
-      "ly_do": "Lãi suất cao ảnh hưởng đến phân bổ đầu tư vào các kênh tài sản.",
-      "sac_thai": "trung tính",
-      "nguon": "CafeF Chứng khoán",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-12 18:13",
-      "link": "https://cafef.vn/lai-suat-cao-nen-phan-bo-dau-tu-ra-sao-188261112181320121.chn"
-    },
-    {
-      "tieu_de": "Vì sao Ấn Độ lại đổi dầu của Nga lấy dầu thô Trung Đông?",
-      "chu_de": "Hàng hóa",
-      "diem_tac_dong": 6,
-      "ly_do": "Ấn Độ đổi dầu Nga lấy dầu Trung Đông, ảnh hưởng thị trường dầu mỏ toàn cầu.",
-      "sac_thai": "trung tính",
-      "nguon": "CafeF Tài chính quốc tế",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-12 21:25",
-      "link": "https://cafef.vn/vi-sao-an-do-lai-doi-dau-cua-nga-lay-dau-tho-trung-dong-188261112205602814.chn"
-    },
-    {
-      "tieu_de": "Hương Ly muốn mua 5 triệu cổ phiếu giữa lúc thị giá lao dốc",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 6,
-      "ly_do": "Con gái Chủ tịch TIG đăng ký mua cổ phiếu khi thị giá lao dốc.",
-      "sac_thai": "tích cực",
-      "nguon": "CafeF Chứng khoán",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-12 13:44",
-      "link": "https://cafef.vn/huong-ly-muon-mua-5-trieu-co-phieu-giua-luc-thi-gia-lao-doc-188261112134504809.chn"
-    },
-    {
-      "tieu_de": "Taseco Land điều chỉnh hạ mục tiêu lợi nhuận năm 2026",
-      "chu_de": "Doanh nghiệp niêm yết",
-      "diem_tac_dong": 6,
-      "ly_do": "Taseco Land điều chỉnh hạ mục tiêu lợi nhuận năm 2026.",
-      "sac_thai": "tiêu cực",
-      "nguon": "CafeF Chứng khoán",
-      "so_nguon": 1,
-      "thoi_gian": "2026-11-12 14:14",
-      "link": "https://cafef.vn/taseco-land-dieu-chinh-ha-muc-tieu-loi-nhuan-nam-2026-188261112141436747.chn"
     }
   ]
 }
